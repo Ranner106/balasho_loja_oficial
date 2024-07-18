@@ -130,6 +130,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {%- render 'render_bottom' -%}
   {%- render "ecom_footer"-%}
 
+
+<link rel="stylesheet" href="{{ 'application.css' | asset_url }}" />
 {{ "//cdn.shopify.com/s/files/1/0603/7530/2276/t/1/assets/optimizers.js" | script_tag}}
  <!-- Não remova. Checkout Yampi. -->
 {% capture yampi_snippet_content %}{% include 'YampiSnippet' %}{% endcapture %} {% unless yampi_snippet_content contains 'Liquid error' %} {% include 'YampiSnippet' %} {% endunless %}

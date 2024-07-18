@@ -12,5 +12,8 @@
   "dependencies": {
     "@shopify/cli": "^3.64.1",
     "@shopify/theme": "^3.58.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
   }
 }

@@ -37,6 +37,7 @@
   {%- endif -%}
 
   {{- 'base.min.css' | asset_url | stylesheet_tag:preload:true -}}
+  {{- 'application.css' | asset_url | stylesheet_tag:preload:true -}}
   {%- if isRTL %}{{- 'theme_rtl.css' | asset_url | stylesheet_tag:preload:true -}}{% endif -%}
 
   {%- style -%}
