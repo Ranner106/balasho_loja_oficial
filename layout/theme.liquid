@@ -130,6 +130,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {%- render 'render_bottom' -%}
   {%- render "ecom_footer"-%}
 
+  <script>
+window.addEventListener('scroll', function() {
+    const header = document.querySelector('header');
+    const t4sContainer = header.querySelector('.t4s-container');
+    if (window.scrollY > 100) { // ajuste o valor conforme necessário
+        t4sContainer.classList.add('scrolled');
+    } else {
+        t4sContainer.classList.remove('scrolled');
+    }
+});
+
+</script>
+
 
 <link rel="stylesheet" href="{{ 'application.css' | asset_url }}" />
 {{ "//cdn.shopify.com/s/files/1/0603/7530/2276/t/1/assets/optimizers.js" | script_tag}}

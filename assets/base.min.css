@@ -3590,6 +3590,24 @@ input.t4s-quantity-input[type=number]::-webkit-outer-spin-button {
         max-width: var(--wrapper-mw)
     }
 
+   /* Estado inicial: escondido */
+header .t4s-container {
+    height: 5px;
+}
+
+/* Estado durante a rolagem: visível com altura especificada */
+header .t4s-container.scrolled {
+    display: block;
+    height: 170px; /* Para desktop */
+    transition: height 0.3s ease; /* Transição suave */
+}
+
+@media (max-width: 767px) {
+    header .t4s-container.scrolled {
+        height: 100px; /* Para mobile */
+    }
+}
+
     .is--layout_wide {
         max-width: 1600px
     }
