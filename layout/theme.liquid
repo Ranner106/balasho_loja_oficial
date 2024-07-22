@@ -132,16 +132,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <script>
     
-document.addEventListener('DOMContentLoaded', function() {
-    window.addEventListener('scroll', function() {
-        const header = document.querySelector('header');
-        const t4sContainer = header.querySelector('.t4s-container');
-        if (window.scrollY > 100) { // ajuste o valor conforme necessário
-            t4sContainer.classList.add('scrolled');
+    document.addEventListener("DOMContentLoaded", function() {
+    const headerContainer = document.querySelector("header .t4s-container");
+
+    if (headerContainer) {
+        if (window.location.pathname === '/') {
+            // Página inicial
+            document.addEventListener("scroll", function() {
+                if (window.scrollY > 0) {
+                    headerContainer.classList.add("scrolled");
+                } else {
+                    headerContainer.classList.remove("scrolled");
+                }
+            });
         } else {
-            t4sContainer.classList.remove('scrolled');
+            // Outras páginas
+            headerContainer.classList.add("initial");
         }
-    });
+    }
 });
 
 
