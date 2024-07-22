@@ -8,6 +8,27 @@ bk_stts.lazy_mn and admin_sp == false
   assign root_url = routes.root_url
   assign showArrow = se_stts.arrow -%}
 
+
+<style>
+	/* Estado inicial: altura pequena */
+	header .t4s-container {
+		height: 5px;
+		transition: height 0.3s ease; /* Transição suave para mudanças de altura */
+	}
+	
+	/* Estado durante a rolagem: visível com altura especificada */
+	header .t4s-container.scrolled {
+		height: 150px; /* Para desktop */
+	}
+	
+	/* Ajuste para tablet e mobile */
+	@media (max-width: 1024px) {
+		header .t4s-container.scrolled {
+			height: 70px; /* Para mobile e tablet */
+		}
+	}
+	</style>
+
 <nav class="t4s-navigation t4s-text-{{se_stts.align}} t4s-nav__{{se_stts.hover}} t4s-nav-arrow__{{se_stts.arrow}}"><ul data-menu-nav id="t4s-nav-ul" class="t4s-nav__ul t4s-d-inline-flex t4s-flex-wrap t4s-align-items-center">
 {%- for block in se_blocks -%}
    {%- liquid 
