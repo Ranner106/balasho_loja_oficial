@@ -37,6 +37,28 @@ header .t4s-container.initial {
         height: 70px; /* Altura inicial para mobile e tablet */
     }
 }
+
+/* Estilização para classes específicas */
+.t4s-navigation,
+.t4s-col-lg-auto,
+.t4s-col-lg-2,
+.t4s-col-md-4 {
+    margin-top: -60px; /* Margem para desktop */
+}
+
+.t4s-col-lg-2 {
+    margin-top: -100px; /* Margem para desktop */
+}
+
+@media (max-width: 1024px) {
+    .t4s-navigation,
+    .t4s-col-lg-auto,
+    .t4s-col-lg-2,
+    .t4s-col-md-4 {
+        margin-top: -60px; /* Margem para mobile e tablet */
+    }
+}
+
 </style>
 
 {%- if template == 'index' -%}
