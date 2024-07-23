@@ -1,1 +1,2528 @@
-{"current":{"purchase_code":"Nameless Hero","body_bg":"#ffffff","home_keywords":"decoração para casa ,  decoracao para casamento , produtos para casa ,  decoração apartamento pequeno ,  decoração apartamento ,","shop_author":"polihousi","use_rtl":"0","list_rtl":"pt","prevent_copying":true,"falling_snow":false,"platform_email":"1","checkbox_mail":false,"timezone":"America\/Sao_Paulo","header_design":"inline","logo":"shopify:\/\/shop_images\/logo_1.png","logo_width":230,"logos":"shopify:\/\/shop_images\/kalles.png","logos_width":300,"logo_mb":"shopify:\/\/shop_images\/jbn.jpg","logo_mb_width":350,"logo_tr":"shopify:\/\/shop_images\/header-logo-01.png","logo_tr_width":95,"mobile_nav_type":"4","only_icon":false,"heading_color":"#000000","text_color":"#000000","accent_color":"#0a775a","secondary_color":"#000000","loading_bar_color":"#0a775a","border_color":"#000000","border_primary_color":"#000000","price_primary":"#0a775a","price_secondary":"#000000","link_color":"#000000","link_color_hover":"#1c1c1c","btn_bg":"#1c1c1c","cl_lazyload":"#0a775a","use_cus_lz":true,"cus_lz":"shopify:\/\/shop_images\/polihousifaviconovo.png","bg_tooltip":"#1c1c1c","sw_primary":"#050505","sw_secondary":"#4e4e4e","sw_border":"#050505","font_source":"1","fnt_fm_sp1":"varela_round_n4","fnt_fm_sp2":"varela_round_n4","fnt_fm_sp3":"varela_round_n4","fnt_fm_gg2":"Poppins","fnt_fm_gg3":"Libre Baskerville","bd_fsize":14,"hd_ffamily":"1","fs_h2":29,"enable_ajax_cart":true,"wishlist_mode":"1","enable_compe":false,"app_review":"7","badge_shape":"2","label_sale_style":"2","use_new_badge":false,"use_custom_badge":true,"sale_badge_color":"#0a775a","new_badge_color":"#0a775a","preorder_badge_color":"#000000","soldout_badge_color":"#939393","custom_badge_color":"#0a775a","color_ck":"Cor, Cores","use_link_vendor":false,"price_varies_style":"2","type_qv":"2","enable_rating":false,"show_qty":false,"pr_border_style":"1","enable_pr_color":false,"swatch_color_style":"1","swatch_item_style":"2","show_color_type":"1","enable_pr_size":false,"pr_size_pos":"2","size_ck":"","pr_img_effect":"2","pr_curent":"2","use_group_media":true,"show_first_media":true,"use_change_variant_by_img":true,"enable_his":true,"use_incoming_mess":false,"variant_remove":"1","share_source":"1","min_qty":"0","edit_item":"0","cart_type":"drawer","free_ship_pr":"","enable_shipbar":false,"des_shipbar":"0","gift_wrap_pr":"garantia-extendida-de-1-ano","use_privacy_policy":false,"return_login":"","filter_type_search":false,"show_search_suggest":true,"search_prs_suggest":"lancamentos","show_search_hotkey":true,"currency_code_enabled":false,"auto_currency":false,"currency_type":"1","flag_currency":false,"size_currency":"sm","round_currency":false,"notify_currency":false,"hover_currency":false,"share_image":"shopify:\/\/shop_images\/Logo_Atitude_versatil_204X44px-PhotoRoom.png","share_twitter":false,"share_tumblr":false,"share_email":true,"share_telegram":false,"share_whatsapp":true,"social_facebook_link":"https:\/\/www.facebook.com\/profile.php?id=61555969997142","social_twitter_link":"","social_instagram_link":"https:\/\/www.instagram.com\/atitudeversatil4","social_dribbble_link":"","social_linkedin_link":"","social_pinterest_link":"https:\/\/br.pinterest.com\/atitudeversatil\/","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"https:\/\/www.youtube.com\/channel\/UCXBZXSbe4BSSCFHeMMn4UtA","social_vimeo_link":"","social_behance_link":"","social_soundcloud_link":"","social_tiktok_link":"https:\/\/www.tiktok.com\/@atitude.versatil","favicon":"shopify:\/\/shop_images\/Favicon_50x50px_98ab0526-f60a-4a72-9bc1-e30ee8433b2b.png","checkout_logo_position":"center","checkout_logo_size":"large","checkout_sidebar_background_color":"#f2f2f2","checkout_accent_color":"#8c8888","checkout_button_color":"#39c172","pr_incoming_mess":true,"use_vimg":true,"sticky_atc":true,"fnt_fm_button":"1","sections":{"bottom-bar":{"type":"bottom-bar","blocks":{"2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3":{"type":"bl_col","settings":{"col_heading":"","menu":"","col_dk":"12","col_tb":"12","col_mb":"12","content_align":"t4s-text-md-center","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-center","padding_inner_mb":""}},"b3c6ceca-2d54-4a14-b482-bb86cbf25f08":{"type":"copyR","settings":{"text":"Copyright © [year] <span class=\"t4s-cp\">atitudeversatil.com.br<\/span> É vedada qualquer reprodução, total ou parcial, nos termos da Lei nº 9.610\/98 . Todos os direitos reservados.","mgb":0,"mgb_mb":0}},"9ad9cb9a-eb43-4b01-9970-291132a422e3":{"type":"copyR","settings":{"text":"Rua Arminda, S\/N - Coelho da Rocha São João de Meriti - RJ","mgb":0,"mgb_mb":0}},"031775d8-955b-41e8-86d5-3fc1954babd9":{"type":"copyR","settings":{"text":"Atitude Versátil CNPJ: 33.935.530\/0001-80","mgb":0,"mgb_mb":0}},"5154bee8-a3df-4bf2-808a-d206838908a4":{"type":"payments","settings":{"svg":"american_express,boleto,master,visa,elo,pix","height":30,"hidden_mobile":false,"mgb":20,"mgb_mb":10}},"47f5eb4c-1063-495d-bfc4-a54c62d219aa":{"type":"bl_col","disabled":true,"settings":{"col_heading":"","menu":"","col_dk":"4","col_tb":"4","col_mb":"11","content_align":"t4s-text-md-center","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-center","padding_inner_mb":""}}},"block_order":["2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3","b3c6ceca-2d54-4a14-b482-bb86cbf25f08","9ad9cb9a-eb43-4b01-9970-291132a422e3","031775d8-955b-41e8-86d5-3fc1954babd9","5154bee8-a3df-4bf2-808a-d206838908a4","47f5eb4c-1063-495d-bfc4-a54c62d219aa"],"settings":{"border_top":false,"border_pos":"in","space_h_item":"30","space_v_item":"0","space_h_item_mb":"0","space_v_item_mb":"0","heading_fontf":"inherit","heading_fs":16,"heading_lh":22,"heading_fw":500,"heading_ls":0,"mgb":30,"mgb_mb":20,"text_fs":14,"text_fw":400,"heading_cl":"#ffffff","text_cl":"#878787","link_cl":"#878787","link_hover_cl":"#000000","border_cl":"#e6e6e6","layout":"t4s-container-wrap","cl_bg":"#ffffff","cl_bg_gradient":"","mg":"","pd":"20px,,5px,","mg_tb":"","pd_tb":"","mg_mb":"","pd_mb":"20px,,5px,"}},"footer":{"type":"footer","blocks":{"de84a111-3ed0-40a2-b86a-1e81488e9bff":{"type":"image","disabled":true,"settings":{"link_img":"","img_width":130,"img_width_mb":0,"mgb":34,"mgb_mb":24}},"footer-4":{"type":"bl_col","settings":{"col_heading":"NOSSAS POLÍTICAS","menu":"footer","menu_style":"1","col_dk":"3","col_tb":"6","col_mb":"12","content_align":"t4s-text-md-start","padding_inner":"5px,0,0,0","col_heading_mobile":"","content_align_mb":"t4s-text-start","padding_inner_mb":""}},"footer-6":{"type":"bl_col","settings":{"col_heading":"CATEGORIAS","menu":"categorias","menu_style":"1","col_dk":"3","col_tb":"6","col_mb":"12","content_align":"t4s-text-md-start","padding_inner":"5px,0,0,0","col_heading_mobile":"","content_align_mb":"t4s-text-start","padding_inner_mb":""}},"footer-8":{"type":"bl_col","settings":{"col_heading":"INFORMAÇÕES","menu":"informa-es","menu_style":"1","col_dk":"3","col_tb":"6","col_mb":"12","content_align":"t4s-text-md-start","padding_inner":"5px,0,0,0","col_heading_mobile":"","content_align_mb":"t4s-text-start","padding_inner_mb":""}},"footer-10":{"type":"bl_col","settings":{"col_heading":"CENTRAL DE ATENDIMENTO","menu":"","menu_style":"2","col_dk":"3","col_tb":"6","col_mb":"12","content_align":"t4s-text-md-start","padding_inner":"0px,,0px,,","col_heading_mobile":"","content_align_mb":"t4s-text-start","padding_inner_mb":""}},"footer-2":{"type":"html","settings":{"html_content":"<p style=\"display:flex;\"><svg style=\"width: 24px;height: 02px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\">\n\n<\/svg><\/p><p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 28.244 7.47 h -25.572 v 17.06 h 26.656 v -17.06 h -1.084 Z M 27.177 8.536 l -10.298 10.298 c -0.47 0.47 -1.289 0.47 -1.759 0 l -10.3 -10.298 h 22.356 Z M 3.738 8.961 l 6.923 6.922 l -6.923 6.923 v -13.846 Z M 4.589 23.464 l 6.827 -6.826 l 2.951 2.95 c 0.436 0.436 1.016 0.677 1.633 0.677 s 1.197 -0.241 1.633 -0.677 l 2.951 -2.951 l 6.826 6.826 h -22.822 Z M 28.262 22.807 l -6.923 -6.924 l 6.923 -6.924 v 13.848 Z\"><\/path><\/svg> <span>contato@atitudeversatil.com.br<\/span><\/p> \n<p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 23.407 30.394 c -2.431 0 -8.341 -3.109 -13.303 -9.783 c -4.641 -6.242 -6.898 -10.751 -6.898 -13.785 c 0 -2.389 1.65 -3.529 2.536 -4.142 l 0.219 -0.153 c 0.979 -0.7 2.502 -0.927 3.086 -0.927 c 1.024 0 1.455 0.599 1.716 1.121 c 0.222 0.442 2.061 4.39 2.247 4.881 c 0.286 0.755 0.192 1.855 -0.692 2.488 l -0.155 0.108 c -0.439 0.304 -1.255 0.869 -1.368 1.557 c -0.055 0.334 0.057 0.684 0.342 1.068 c 1.423 1.918 5.968 7.55 6.787 8.314 c 0.642 0.6 1.455 0.685 2.009 0.218 c 0.573 -0.483 0.828 -0.768 0.83 -0.772 l 0.059 -0.057 c 0.048 -0.041 0.496 -0.396 1.228 -0.396 c 0.528 0 1.065 0.182 1.596 0.541 c 1.378 0.931 4.487 3.011 4.487 3.011 l 0.05 0.038 c 0.398 0.341 0.973 1.323 0.302 2.601 c -0.695 1.327 -2.85 4.066 -5.079 4.066 Z M 9.046 2.672 c -0.505 0 -1.746 0.213 -2.466 0.728 l -0.232 0.162 c -0.827 0.572 -2.076 1.435 -2.076 3.265 c 0 2.797 2.188 7.098 6.687 13.149 c 4.914 6.609 10.532 9.353 12.447 9.353 c 1.629 0 3.497 -2.276 4.135 -3.494 c 0.392 -0.748 0.071 -1.17 -0.04 -1.284 c -0.36 -0.241 -3.164 -2.117 -4.453 -2.988 c -0.351 -0.238 -0.688 -0.358 -0.999 -0.358 c -0.283 0 -0.469 0.1 -0.532 0.14 c -0.104 0.111 -0.39 0.405 -0.899 0.833 c -0.951 0.801 -2.398 0.704 -3.424 -0.254 c -0.923 -0.862 -5.585 -6.666 -6.916 -8.459 c -0.46 -0.62 -0.641 -1.252 -0.538 -1.877 c 0.187 -1.133 1.245 -1.866 1.813 -2.26 l 0.142 -0.099 c 0.508 -0.363 0.4 -1.02 0.316 -1.242 c -0.157 -0.414 -1.973 -4.322 -2.203 -4.781 c -0.188 -0.376 -0.336 -0.533 -0.764 -0.533 Z\"><\/path><\/svg><span> <a href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\">(21) 98959-0075<\/a><\/span><\/p>","hidden_mobile":false}},"footer-11":{"type":"custom_text","settings":{"text":"Inscreva-se em nossa newsletter para saber dos lançamentos e promoções antes de todo mundo!","remove_br_tag":false,"fontf":"1","text_cl":"#000000","text_fs":14,"text_lh":24,"text_fw":400,"text_ls":0,"font_italic":true,"text_shadow":false,"text_mgb":18,"hidden_mobile":false,"text_fs_mb":16,"text_lh_mb":0,"text_ls_mb":0,"text_mgb_mobile":18}},"footer-12":{"type":"newsletter","settings":{"form_width":0,"form_width_mb":0,"newl_des":"1","news_align":"center","newl_size":"small","btn_icon":false,"input_cl":"#b8b8b8","border_cl":"#000000","btn_cl":"#ffffff","btn_bg_cl":"#222222","btn_hover_cl":"#ffffff","btn_hover_bg_cl":"#0a775a","hidden_mobile":false,"mgb":22,"mgb_mb":20}},"55bb833e-7665-4efc-b726-738601b89ecc":{"type":"bl_col","settings":{"col_heading":"","menu":"","menu_style":"1","col_dk":"3","col_tb":"6","col_mb":"12","content_align":"t4s-text-md-start","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-start","padding_inner_mb":""}},"384ae6fa-76f9-4332-bcb0-d0b0cc53bc2c":{"type":"cus_socials","settings":{"title":"SIGA-NOS:","social_mode":"1","social_style":"4","social_size":"medium","bd_radius":0,"use_color_set":false,"icon_cl":"#878787","bg_cl":"#222222","space_h_item":"5","space_v_item":"5","space_h_item_mb":"6","space_v_item_mb":"2"}},"f4f624ea-d626-48fc-9dde-8ccd1d378ca0":{"type":"bl_col","settings":{"col_heading":"","menu":"","menu_style":"1","col_dk":"2","col_tb":"6","col_mb":"3","content_align":"t4s-text-md-center","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-center","padding_inner_mb":""}},"f696bb69-4bd5-4c7d-ba3f-d1816691c173":{"type":"image","settings":{"link_img":"https:\/\/www.sslshopper.com\/ssl-checker.html#hostname=polihousi.com","img_width":110,"img_width_mb":80,"mgb":0,"mgb_mb":0}},"9c4251b6-d019-4caa-bbe7-585661ccc7a2":{"type":"bl_col","settings":{"col_heading":"","menu":"","menu_style":"1","col_dk":"2","col_tb":"6","col_mb":"3","content_align":"t4s-text-md-center","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-center","padding_inner_mb":""}},"152a5889-f1db-48a0-8678-e0207518546b":{"type":"image","settings":{"link_img":"https:\/\/www.reclameaqui.com.br\/empresa\/polihousi\/","img_width":110,"img_width_mb":80,"mgb":0,"mgb_mb":0}},"54d1400b-ed63-4bf1-a570-9e0a88a8d3a0":{"type":"bl_col","settings":{"col_heading":"","menu":"","menu_style":"1","col_dk":"2","col_tb":"6","col_mb":"3","content_align":"t4s-text-md-center","padding_inner":"","col_heading_mobile":"","content_align_mb":"t4s-text-center","padding_inner_mb":""}},"960dce10-0ce1-451b-ae91-c7122e374817":{"type":"image","settings":{"link_img":"https:\/\/transparencyreport.google.com\/safe-browsing\/search?url=polihousi.com&hl=pt_BR","img_width":110,"img_width_mb":80,"mgb":0,"mgb_mb":0}}},"block_order":["de84a111-3ed0-40a2-b86a-1e81488e9bff","footer-4","footer-6","footer-8","footer-10","footer-2","footer-11","footer-12","55bb833e-7665-4efc-b726-738601b89ecc","384ae6fa-76f9-4332-bcb0-d0b0cc53bc2c","f4f624ea-d626-48fc-9dde-8ccd1d378ca0","f696bb69-4bd5-4c7d-ba3f-d1816691c173","9c4251b6-d019-4caa-bbe7-585661ccc7a2","152a5889-f1db-48a0-8678-e0207518546b","54d1400b-ed63-4bf1-a570-9e0a88a8d3a0","960dce10-0ce1-451b-ae91-c7122e374817"],"settings":{"sticky":false,"collapse":true,"border_top":true,"border_pos":"in","space_h_item":"30","space_v_item":"30","space_h_item_mb":"0","space_v_item_mb":"30","heading_fontf":"inherit","heading_fs":16,"heading_lh":22,"heading_fw":500,"heading_ls":0,"mgb":30,"mgb_mb":20,"text_fs":15,"text_fw":400,"heading_cl":"#000000","text_cl":"#000000","link_cl":"#000000","link_hover_cl":"#000000","border_cl":"#000000","layout":"t4s-container-wrap","cl_bg":"#ffffff","cl_bg_gradient":"radial-gradient(rgba(254, 217, 81, 1) 11%, rgba(NaN, NaN, NaN, 1) 58%)","mg":"","pd":"30px,,30px,","mg_tb":"","pd_tb":"","mg_mb":"","pd_mb":"45px,,45px,"}},"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-1":{"type":"announcement","settings":{"link":"https:\/\/visaobrasil.com\/account\/login","content":"<p>Sua primeira vez? Cadastre-se e aproveite o desconto de 10% OFF. <strong>Cupom: VBLORD <\/strong>[icon_arrow]<\/p>","countdown":"","txt_day":"","dayx":0}},"announcement-bar-0":{"type":"announcement","settings":{"link":"","content":"<p>Semana de <strong>FRETE GRÁTIS<\/strong>, aproveite! | Parcele em  até 12x no cartão<\/p>","countdown":"","txt_day":"","dayx":0}}},"block_order":["announcement-bar-1","announcement-bar-0"],"settings":{"show_announcement":false,"effect":"1","au_time":4,"height":30,"fontsize":12,"cl":"#ffffff","bg":"#1c1c1c","bg_op":100,"close":"0","cl_btn":"#ffffff","version":"2","date":0}},"top-bar":{"type":"top-bar","blocks":{"top-bar-0":{"type":"html","settings":{"html":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n   <path d=\"M23.407 30.394c-2.431 0-8.341-3.109-13.303-9.783-4.641-6.242-6.898-10.751-6.898-13.785 0-2.389 1.65-3.529 2.536-4.142l0.219-0.153c0.979-0.7 2.502-0.927 3.086-0.927 1.024 0 1.455 0.599 1.716 1.121 0.222 0.442 2.061 4.39 2.247 4.881 0.286 0.755 0.192 1.855-0.692 2.488l-0.155 0.108c-0.439 0.304-1.255 0.869-1.368 1.557-0.055 0.334 0.057 0.684 0.342 1.068 1.423 1.918 5.968 7.55 6.787 8.314 0.642 0.6 1.455 0.685 2.009 0.218 0.573-0.483 0.828-0.768 0.83-0.772l0.059-0.057c0.048-0.041 0.496-0.396 1.228-0.396 0.528 0 1.065 0.182 1.596 0.541 1.378 0.931 4.487 3.011 4.487 3.011l0.050 0.038c0.398 0.341 0.973 1.323 0.302 2.601-0.695 1.327-2.85 4.066-5.079 4.066zM9.046 2.672c-0.505 0-1.746 0.213-2.466 0.728l-0.232 0.162c-0.827 0.572-2.076 1.435-2.076 3.265 0 2.797 2.188 7.098 6.687 13.149 4.914 6.609 10.532 9.353 12.447 9.353 1.629 0 3.497-2.276 4.135-3.494 0.392-0.748 0.071-1.17-0.040-1.284-0.36-0.241-3.164-2.117-4.453-2.988-0.351-0.238-0.688-0.358-0.999-0.358-0.283 0-0.469 0.1-0.532 0.14-0.104 0.111-0.39 0.405-0.899 0.833-0.951 0.801-2.398 0.704-3.424-0.254-0.923-0.862-5.585-6.666-6.916-8.459-0.46-0.62-0.641-1.252-0.538-1.877 0.187-1.133 1.245-1.866 1.813-2.26l0.142-0.099c0.508-0.363 0.4-1.020 0.316-1.242-0.157-0.414-1.973-4.322-2.203-4.781-0.188-0.376-0.336-0.533-0.764-0.533z\" fill=\"currentColor\"><\/path>\n<\/svg>\n<a class=\"t4s-ct\" href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\"> (21) 98959-0075<\/a> \n<svg class=\"ml__15\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink \">\n   <path d=\"M28.244 7.47h-25.572v17.060h26.656v-17.060h-1.084zM27.177 8.536l-10.298 10.298c-0.47 0.47-1.289 0.47-1.759 0l-10.3-10.298h22.356zM3.738 8.961l6.923 6.922-6.923 6.923v-13.846zM4.589 23.464l6.827-6.826 2.951 2.95c0.436 0.436 1.016 0.677 1.633 0.677s1.197-0.241 1.633-0.677l2.951-2.951 6.826 6.826h-22.822zM28.262 22.807l-6.923-6.924 6.923-6.924v13.848z\" fill=\"currentColor\"><\/path>\n<\/svg> \n<a class=\"t4s-ct\" href=\"mailto:contato@atitudeversatil.com.br\">contato@atitudeversatil.com.br<\/a>","hide":true,"text_align":"start","col":"4"}},"top-bar-1":{"type":"text","settings":{"text":"<p>Ganhe<strong> 5% <\/strong>de Desconto no<strong> Pix <\/strong>;;;<strong> Frete Grátis <\/strong>para todo o Brasil<\/p>","countdown":"","txt_day":"","dayx":0,"effect":"1","au_time":3.5,"fw_bold":600,"cl_a":"#39c172","cl_bold":"#ffffff","cl_a_tr":"#ffffff","cl_bold_tr":"#ec0101","hide":false,"text_align":"center","col":"4"}},"c6c596ed-a750-4ffb-a898-ebe5118e29b5":{"type":"social","settings":{"social":"2","hide":true,"text_align":"end","col":"4"}}},"block_order":["top-bar-0","top-bar-1","c6c596ed-a750-4ffb-a898-ebe5118e29b5"],"custom_css":[".t4s-ct {display: none;}",".t4s-top-bar svg {display: none;}"],"settings":{"show_topbar":true,"topbar_transparent":true,"height":45,"fontsize":13,"cl":"#ffffff","cl_a_hover":"#939393","bg":"#000000","bg_op":100,"show_border":false,"bd_cl":"#000000","cl_tr":"#ffffff","cl_a_hover_tr":"#ffffff","bg_tr":"#000000","bg_op_tr":10,"show_border_tr":false,"bd_cl_tr":"#000000"}},"header-inline":{"type":"header-inline","blocks":{"drop_3MWpKP":{"type":"drop","settings":{"title":"Panela Elétrica","url":"shopify:\/\/collections\/frontpage","open_link":"_self","menu":"coisas-de-casas","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"","lazy_mn":true,"pos_sub":"bottom","pos":"left"}},"drop_E4AYnG":{"type":"drop","settings":{"title":"Liquidificadores","url":"shopify:\/\/collections\/decoracao","open_link":"_self","menu":"decoracao-moderna","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"","lazy_mn":true,"pos_sub":"bottom","pos":"left"}},"drop_qC8giU":{"type":"drop","settings":{"title":"Mata Mosquito Eletrico","url":"shopify:\/\/blogs\/novidades","open_link":"_self","menu":"dicas-para-casa","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"","lazy_mn":true,"pos_sub":"bottom","pos":"left"}},"drop_7BVDwc":{"type":"drop","settings":{"title":"Dispenser Para Sabonete Liquido","url":"","open_link":"_self","menu":"","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"","lazy_mn":true,"pos_sub":"bottom","pos":"left"}},"base_AyTfnU":{"type":"base","settings":{"title":"contato","url":"shopify:\/\/pages\/contact","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}},"base_wU8wRp":{"type":"base","settings":{"title":"Rastreio","url":"shopify:\/\/pages\/rastreio","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}}},"block_order":["drop_3MWpKP","drop_E4AYnG","drop_qC8giU","drop_7BVDwc","base_AyTfnU","base_wU8wRp"],"custom_css":[".t4s-container {height: 170px;}"],"settings":{"layout":"logo_left","full_header":true,"height":90,"arrow":true,"align":"center","hover":"hover_sideup","h_navmb":60,"bgnav":"#000000","opnav":100,"clnav":"#ffffff","clnav_hover":"#ffffff","h_icon":"kalles","hover_icon":"3","show_search":true,"show_acc":true,"show_wis":true,"cart_des":"2","bg_hc":"#000000","cl_hc":"#ffffff","sticky_header":true,"scroll_header":false,"bgnavst":"#000000","opnavst":100,"clnavst":"#ffffff","clnavst_hover":"#ffffff","transparent_header":false,"space_transparent_header":true,"bgnavtr":"#afafb3","opnavtr":40,"clnavtr":"#000000","clnavtr_hover":"#ffffff","fm_nav":"1","fs_nav":14,"fw_nav":500,"ls_nav":0}},"title_config":{"type":"title_config","blocks":{"title_config-0":{"type":"title","settings":{"color":"#222222","family":"2","size":24,"weight":600,"lh":34,"ls":0,"space":0,"size_mb":18,"lh_mb":30,"ls_mb":0,"space_mb":0}},"title_config-1":{"type":"subtitle","settings":{"italic":true,"color":"#878787","family":"3","size":14,"weight":400,"lh":0,"ls":0,"space":0,"size_mb":14,"lh_mb":0,"ls_mb":0,"space_mb":0}}},"block_order":["title_config-0","title_config-1"],"settings":{"design_heading":"1","heading_align":"t4s-text-center","top_heading":"Accordion","icon_heading":"las la-gem","top_subheading":"","tophead_mb":30}},"pr_item_config":{"type":"pr_item_config","blocks":{"pr_item_config-0":{"type":"1","settings":{"heading":"Modelo padrão Loja","addtocart_color":"#0a775a","addtocart_color_hover":"#ffffff","quickview_color":"#0a775a","quickview_color_hover":"#1c1c1c","wishlist_color":"#1c1c1c","wishlist_color_hover":"#222222","wishlist_color_active":"#770a0a","compare_color":"#ffffff","compare_color_hover":"#222222","size_list_color":"#ffffff"}},"pr_item_config-1":{"type":"2","settings":{"heading":"Modelo full blaack","addtocart_color":"#ffffff","addtocart_color_hover":"#222222","quickview_color":"#ffffff","quickview_color_hover":"#222222","wishlist_color":"#ffffff","wishlist_color_hover":"#222222","wishlist_color_active":"#e81e63","compare_color":"#ffffff","compare_color_hover":"#222222","size_list_color":"#ffffff"}},"977f60cb-440c-4e8e-beaa-b55b503aaa7c":{"type":"3","settings":{"heading":"Modelo azul","addtocart_color":"#ffffff","addtocart_color_hover":"#222222","quickview_color":"#ffffff","quickview_color_hover":"#222222","wishlist_color":"#ffffff","wishlist_color_hover":"#222222","wishlist_color_active":"#e81e63","compare_color":"#ffffff","compare_color_hover":"#222222","size_list_color":"#ffffff"}},"83670c68-17f0-43a9-8caa-b96cca9a3b05":{"type":"list","settings":{"heading":"Product list","content_color":"#878787","addtocart_color":"#56cfe1","addtocart_color_hover":"#222222","quickview_color":"#56cfe1","quickview_color_hover":"#222222","wishlist_color":"#ffffff","wishlist_color_hover":"#222222","wishlist_color_active":"#e81e63","compare_color":"#ffffff","compare_color_hover":"#222222","size_list_color":"#ffffff"}},"a8021fa1-2248-47ff-a3a7-9433011a17bc":{"type":"packery","settings":{"heading":"Product packery","pr_title_color":"#ffffff","pr_title_color_hover":"#ef4949","price_color":"#ffffff","price_sale_color":"#ec0101","addtocart_color":"#ffffff","addtocart_color_hover":"#222222","quickview_color":"#ffffff","quickview_color_hover":"#222222","wishlist_color":"#ffffff","wishlist_color_hover":"#222222","wishlist_color_active":"#e81e63","compare_color":"#ffffff","compare_color_hover":"#222222","size_list_color":"#ffffff"}}},"block_order":["pr_item_config-0","pr_item_config-1","977f60cb-440c-4e8e-beaa-b55b503aaa7c","83670c68-17f0-43a9-8caa-b96cca9a3b05","a8021fa1-2248-47ff-a3a7-9433011a17bc"],"settings":{"txt_tr_pr":"none","fnt_df_pr":"1","size_pr":14,"fw_pr":500,"lh_pr":20,"ls_pr":0,"size_price_pr":14,"fw_price_pr":400,"space_img_content":15,"space_elements":0,"swatch_color_size":16,"swatch_color_size_mb":20,"pr_btn_round":40,"pr_title_color":"#222222","pr_title_color_hover":"#0a775a","price_color":"#b6b6b6","price_sale_color":"#0a775a","vendors_color":"#878787","vendors_color_hover":"#ef4949","countdown_color":"#ef4949","countdown_overlay":100,"pr_bg_overlay":"#000000","pr_overlay":0}},"btn_config":{"type":"btn_config","blocks":{"btn_config-0":{"type":"custom1","settings":{"color_primary":"#0a775a","color_second":"#ffffff","color_primary_hover":"#1c1c1c","color_second_hover":"#ffffff"}},"btn_config-1":{"type":"custom2","settings":{"color_primary":"#1c1c1c","color_second":"#ffffff","color_primary_hover":"#0a775a","color_second_hover":"#ffffff"}}},"block_order":["btn_config-0","btn_config-1"],"settings":{"fnt_fm_button":"--font-family-1","btn_fw":600,"btn_bdr":60,"button_effect":"default"}},"toolbar_mobile":{"type":"toolbar_mobile","blocks":{"6de4c8b5-fc73-40fe-b6e8-0f2ea261f985":{"type":"home","settings":{"title":"Inicio"}},"695d53f0-a1ab-43e6-8c07-fe40bfebe48a":{"type":"search","settings":{"title":"Pesquisar"}},"toolbar_mobile-1":{"type":"wish","settings":{"title":"Desejos"}},"toolbar_mobile-2":{"type":"cart","settings":{"title":"Carrinho"}}},"block_order":["6de4c8b5-fc73-40fe-b6e8-0f2ea261f985","695d53f0-a1ab-43e6-8c07-fe40bfebe48a","toolbar_mobile-1","toolbar_mobile-2"],"settings":{"enable_toolbar":true,"show_txt":true}},"back_top":{"type":"back_top","settings":{"enable_backtop":true,"enable_hidden_mobile":false,"backtop_des":"1"}},"mega-menu":{"type":"mega-menu","blocks":{"583a30c7-369d-4a64-a51d-ca53c1685206":{"type":"mega","disabled":true,"settings":{"id":1}},"3abb98a1-837d-46af-b195-f5c43e7c88ee":{"type":"link","disabled":true,"settings":{"tt_hd":"HOME PAGES","url":"","open_link":"_self","menu":"","col":"3"}},"2ceac397-4b2b-4740-a477-707dd2680e02":{"type":"link","disabled":true,"settings":{"tt_hd":"HOME PAGES","url":"","open_link":"_self","menu":"","col":"3"}},"1f90cea5-04fb-4ef3-822b-5f987845e5c4":{"type":"link","disabled":true,"settings":{"tt_hd":"HEADER LAYOUTS","url":"","open_link":"_self","menu":"","col":"3"}},"6122e966-0272-4c46-a1a0-051bdc2ae08c":{"type":"link","disabled":true,"settings":{"tt_hd":"FEATURES","url":"","open_link":"_self","menu":"","col":"3"}},"45fa281e-2be5-4727-bd01-942824713769":{"type":"mega","disabled":true,"settings":{"id":2}},"02beea21-3cb9-41ce-a1ab-04ae44b7f47e":{"type":"link","disabled":true,"settings":{"tt_hd":"SHOP PAGES","url":"","open_link":"_self","menu":"","col":"2"}},"ff494243-e58b-40e9-a2ea-e64ccd58a624":{"type":"link","disabled":true,"settings":{"tt_hd":"FEATURES","url":"","open_link":"_self","menu":"","col":"2"}},"cec6a189-3084-497a-b4a8-b391531b2503":{"type":"cat","disabled":true,"settings":{"collection":"women","collection_title":"","collection_subtitle":"","collection_des":"1","title_cl":"#ffffff","title_cl_hover":"#222222","subtitle_cl":"#878787","count_cl":"#222222","border_cl":"#e5e5e5","open_link":"_self","space_bottom":20,"space_bottom_mb":10,"border":false,"item_pd":0,"item_rd":0,"img_effect":"zoom","b_effect":"none","image_ratio":"rationt","image_size":"cover","image_position":"8","collection_link":"","col":"4"}},"95da8d7e-67f2-4ebd-b1ad-e83d518cb37e":{"type":"cat","disabled":true,"settings":{"collection":"frontpage","collection_title":"","collection_subtitle":"","collection_des":"1","title_cl":"#ffffff","title_cl_hover":"#222222","subtitle_cl":"#878787","count_cl":"#222222","border_cl":"#e5e5e5","open_link":"_self","space_bottom":20,"space_bottom_mb":10,"border":false,"item_pd":0,"item_rd":0,"img_effect":"none","b_effect":"none","image_ratio":"rationt","image_size":"cover","image_position":"8","collection_link":"","col":"4"}},"5bdb6eec-e820-4415-ac9b-9c6096eb20c1":{"type":"mega","disabled":true,"settings":{"id":3}},"cc1a7875-8010-421e-b69c-efc19a6043d6":{"type":"link","disabled":true,"settings":{"tt_hd":"PRODUCT LAYOUTS","url":"","open_link":"_self","menu":"","col":"3"}},"e17e717c-01e0-4704-92bc-92c339ee6148":{"type":"link","disabled":true,"settings":{"tt_hd":"PRODUCT DETAILS","url":"","open_link":"_self","menu":"","col":"3"}},"27ca598d-2e3f-44fc-a790-64783d37de5e":{"type":"link","disabled":true,"settings":{"tt_hd":"PRODUCT SWATCH","url":"","open_link":"_self","menu":"","col":"3"}},"bdfaa837-86a3-4159-805a-668060142b0d":{"type":"link","disabled":true,"settings":{"tt_hd":"PRODUCT FEATURES","url":"","open_link":"_self","menu":"","col":"3"}},"5952e385-42a5-4603-9be9-64b76f15ef48":{"type":"mega","disabled":true,"settings":{"id":4}},"400a038a-cb32-4aae-a66d-7d4cd404ccd6":{"type":"link2","disabled":true,"settings":{"col":"2","menu":""}},"41ee689a-9ef7-46ab-a5a6-5fa4776a9af6":{"type":"pr","disabled":true,"settings":{"collection":"sale","product_des":"1","show_vendor":false,"use_cdt":false,"image_ratio":"rationt","image_size":"cover","image_position":"8","content_align":"default","limit":6,"col_dk":"4","space_h_item":"30","space_v_item":"30","layout_des":"2","nav_btn":true,"btn_vi":"always","btn_owl":"outline","btn_shape":"round","btn_cl":"dark","btn_size":"small","btn_hidden_mobile":true,"col":"10"}},"758ddd07-8ea5-4c0e-80a1-e7eef279fa5f":{"type":"mega","disabled":true,"settings":{"id":5}},"5665b9cc-d2a6-42e0-b267-e4b36da8a05e":{"type":"link","disabled":true,"settings":{"tt_hd":"BLOG LAYOUT","url":"https:\/\/demo-kalles-4-1.myshopify.com\/blogs\/fashion?preview_theme_id=","open_link":"_self","menu":"","col":"4"}},"552902be-02b1-40ca-8475-982bbdb75ed7":{"type":"blogs","disabled":true,"settings":{"blog":"fashion","post_des":"1","show_cate":false,"show_tags":true,"show_cnt":false,"show_au":true,"show_dt":true,"show_cm":true,"show_rm":false,"show_irm":false,"date":"date","content_align":"t4s-text-center","limit":8,"img_effect":"zoom","b_effect":"none","image_ratio":"ratio4_3","image_size":"cover","image_position":"8","col_dk":"2","space_h_item":"30","space_v_item":"30","layout_des":"2","nav_btn":true,"btn_vi":"always","btn_owl":"outline","btn_shape":"round","btn_cl":"dark","btn_size":"small","btn_hidden_mobile":true,"col":"8"}}},"block_order":["583a30c7-369d-4a64-a51d-ca53c1685206","3abb98a1-837d-46af-b195-f5c43e7c88ee","2ceac397-4b2b-4740-a477-707dd2680e02","1f90cea5-04fb-4ef3-822b-5f987845e5c4","6122e966-0272-4c46-a1a0-051bdc2ae08c","45fa281e-2be5-4727-bd01-942824713769","02beea21-3cb9-41ce-a1ab-04ae44b7f47e","ff494243-e58b-40e9-a2ea-e64ccd58a624","cec6a189-3084-497a-b4a8-b391531b2503","95da8d7e-67f2-4ebd-b1ad-e83d518cb37e","5bdb6eec-e820-4415-ac9b-9c6096eb20c1","cc1a7875-8010-421e-b69c-efc19a6043d6","e17e717c-01e0-4704-92bc-92c339ee6148","27ca598d-2e3f-44fc-a790-64783d37de5e","bdfaa837-86a3-4159-805a-668060142b0d","5952e385-42a5-4603-9be9-64b76f15ef48","400a038a-cb32-4aae-a66d-7d4cd404ccd6","41ee689a-9ef7-46ab-a5a6-5fa4776a9af6","758ddd07-8ea5-4c0e-80a1-e7eef279fa5f","5665b9cc-d2a6-42e0-b267-e4b36da8a05e","552902be-02b1-40ca-8475-982bbdb75ed7"],"settings":{}},"mb_nav":{"type":"mb_nav","blocks":{"mb_nav-5":{"type":"sea","settings":{}},"mb_nav-4":{"type":"wis","settings":{}},"mb_nav-6":{"type":"acc","settings":{}},"mb_nav-7":{"type":"help","settings":{"title":"Precisa de Ajuda?","text":"<a href='https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\"' target=\"_blank\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z\"><\/path><\/svg> (21) 98959-0075<\/a>\n<br>\n<a href=\"mailto:contato@atitudeversatil.com.br\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 3 8 L 3 26 L 29 26 L 29 8 Z M 7.3125 10 L 24.6875 10 L 16 15.78125 Z M 5 10.875 L 15.4375 17.84375 L 16 18.1875 L 16.5625 17.84375 L 27 10.875 L 27 24 L 5 24 Z\"><\/path><\/svg>\ncontato@atitudeversatil.com.br<\/a>"}},"menu_BUUBHQ":{"type":"menu","settings":{"title":"Informações","url":"","open_link":"_self","menu":"informa-es","icon":"","lb":"","lb_cl":""}},"menu_NX67Ae":{"type":"menu","settings":{"title":"NOSSAS POLÍTICAS","url":"","open_link":"_self","menu":"footer","icon":"","lb":"","lb_cl":""}}},"block_order":["mb_nav-5","mb_nav-4","mb_nav-6","mb_nav-7","menu_BUUBHQ","menu_NX67Ae"],"settings":{}},"mb_cat":{"type":"mb_cat","blocks":{"06829288-e2cc-4c71-8473-1005287d6230":{"type":"catimg","settings":{"cat":"","title":"RASTREIO","url":"shopify:\/\/pages\/rastrear-pedido","lb":"Tempo Real","lb_cl":"#0a775a","icons_op":"2","icon":"las la-shipping-fast","cat1":"","url1":"","cat2":"","url2":"","cat3":"","url3":"","cat4":"","url4":"","cat5":"","url5":"","cat6":"","url6":"","cat7":"","url7":"","cat8":"","url8":"","cat9":"","url9":"","cat10":"","url10":"","cat11":"","url11":"","cat12":"","url12":"","cat13":"","url13":"","cat14":"","url14":"","cat15":"","url15":"","cat16":"","url16":"","cat17":"","url17":"","cat18":"","url18":"","cat19":"","url19":"","cat20":"","url20":"","cat21":"","url21":"","cat22":"","url22":"","cat23":"","url23":"","cat24":"","url24":"","cat25":"","url25":""}},"cat_wNmNGT":{"type":"cat","settings":{"cat":"frontpage","title":"Panela Elétrica","url":"","menu":"coisas-de-casas","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}},"cat_VYWtjx":{"type":"cat","settings":{"cat":"","title":"Panela Multifuncional","url":"shopify:\/\/collections\/decoracao","menu":"decoracao-moderna","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}},"cat_nKQ9bp":{"type":"cat","settings":{"cat":"","title":"Mata Mosquito Eletrico","url":"","menu":"","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}},"cat_MdWMLH":{"type":"cat","settings":{"cat":"","title":"Dispenser Para Sabonete liquido","url":"","menu":"","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}},"cat_fPUdz6":{"type":"cat","settings":{"cat":"","title":"Dicas de Organização de Casa","url":"","menu":"dicas-para-casa","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}},"cat_GpDRPC":{"type":"cat","settings":{"cat":"destaques","title":"Acabaram de Chegar","url":"","menu":"","lb":"","lb_cl":"#e91e63","icons_op":"2","icon":"las la-chair"}}},"block_order":["06829288-e2cc-4c71-8473-1005287d6230","cat_wNmNGT","cat_VYWtjx","cat_nKQ9bp","cat_MdWMLH","cat_fPUdz6","cat_GpDRPC"],"settings":{}},"mini_cart":{"type":"mini_cart","blocks":{"mini_cart-0":{"type":"price","settings":{}},"mini_cart-3":{"type":"btnc","settings":{"btn_icon":false,"button_style":"default","btn_cl":"custom2","button_effect":"default"}},"mini_cart-4":{"type":"btnck","settings":{"btn_icon":false,"button_style":"default","btn_cl":"custom1","button_effect":"fade"}},"mini_cart-5":{"type":"img","disabled":true,"settings":{}},"mini_cart-6":{"type":"btn","settings":{"title":"Voltar a Loja","url":"","btn_icon":false,"button_style":"default","btn_cl":"primary","button_effect":"fade"}}},"block_order":["mini_cart-0","mini_cart-3","mini_cart-4","mini_cart-5","mini_cart-6"],"custom_css":[".t4s-btn-color-custom1 {background-color: #40a2e3;}"],"settings":{"style":"1","enable_calc_ship":false,"enable_note":false,"enable_rates":false,"enable_discount":false,"enable_gift_wrap":false,"ship_df_country":"Brasil"}},"main-qv":{"type":"main-qv","blocks":{"main-qv-0":{"type":"title","settings":{"txt_tr_pr":"none","fnt_df_pr":"1","size_pr":25,"fw_pr":600,"lh_pr":0,"ls_pr":0,"pr_title_color":"#222222","pr_title_color_hover":"#222222"}},"main-qv-1":{"type":"price_review","settings":{"price":"0","type_sale":"1","tax_ship":false,"rating":false,"review_liquid":"","size_price_pr":22,"fw_price_pr":400,"price_color":"#222222","price_sale_color":"#0a775a"}},"main-qv-3":{"type":"form","settings":{"selector_mode":"circle","color_mode":"color is-sw-cl__round","enable_fit_ratio_img":false,"color_size":"medium","show_qty":true,"enable_wishlist":true,"enable_compare":false,"btn_atc_full":false,"pr_btn_round":40,"ani":"none","time":6,"btn_txt":"3","btn_icon":false,"button_style":"default","button_color":"custom1","button_effect":"fade","show_dynamic_checkout":false,"btn_txt2":"3","button_color_payment":"dark","product_list":[],"show_product_current":true,"qty_val":"0","advance_label":"Choose style","advance_pr_list":[]}},"9da5ef82-920a-4c34-a167-6f8e3af9f261":{"type":"order","disabled":true,"settings":{"hide_pre":false,"icon":"2","icon_name":"las la-truck","ani":"none","txt":"Prazo de entrega entre: [date_start] and [date_end]","ds":7,"de":15,"mode":"2","cut_day":"SAT,SUN","frm_day":"t44, DD t46","time":"16:00:00","hr":"horas","min":"minutos"}},"634cb016-3534-4df3-9153-d647bca32d85":{"type":"img","disabled":true,"settings":{"mess":"<p class=\"text-garantia\" style=\"padding: 10px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-check-circle\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z\"><\/path>\n                                        <path fill-rule=\"evenodd\" d=\"M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z\"><\/path>\n                                    <\/svg>\n                                    30 Dias de Garantia\n                                <\/p>\n<p style=\"padding: 3px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\" class=\"text-troca\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-bootstrap-reboot\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 0 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8zm5.48-.079V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6zm0 3.75V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141z\"><\/path>\n                                    <\/svg>\n                                    7 dias para trocas e devoluções\n                                <\/p>","size":17,"source":"1","al":"start","wimg":60,"svg":"american_express,boleto,master,visa,elo,pix","height":30}}},"block_order":["main-qv-0","main-qv-1","main-qv-3","9da5ef82-920a-4c34-a167-6f8e3af9f261","634cb016-3534-4df3-9153-d647bca32d85"],"settings":{"demo_pr":"","image_ratio":"ratioadapt","image_size":"cover","image_position":"8","eff":"fade","nav_btn":true,"btn_vi":"always","btn_owl":"outline","btn_shape":"round","btn_cl":"dark","btn_size":"medium","btn_hidden_mobile":false}},"slider_config":{"type":"slider_config","blocks":{"ef55a72d-2a3a-4be2-b303-7904b5feef29":{"type":"custom1","settings":{"btn_color_primary":"#0a775a","btn_color_second":"#ffffff","btn_color_primary_hover":"#222222","btn_color_second_hover":"#ffffff"}}},"block_order":["ef55a72d-2a3a-4be2-b303-7904b5feef29"],"settings":{"btn_vi":"hover","btn_owl":"default","btn_shape":"none","btn_size":"small","dot_owl":"default","dots_round":true,"dots_space":10}},"search-hidden":{"type":"search-hidden","settings":{}},"login-sidebar":{"type":"login-sidebar","settings":{"content_align":"start","btn_width":"full","button_style":"outline","btns_size":"extra-medium","btns_cl":"dark","button_effect":"default"}},"facets":{"type":"facets","settings":{"style_color_filter":"Color, color, Colour , colour, cor, cores, escolha a cor","style_tag_filter":""}},"heading-template":{"type":"heading-template","blocks":{"heading-template-0":{"type":"1","settings":{"heading":"","fontf":"inherit","text_cl":"#ffffff","text_fs":20,"text_lh":20,"text_fw":500,"text_ls":0,"font_italic":false,"font_uppercase":false,"text_shadow":false,"text_mgb":0,"hidden_mobile":false,"text_fs_mb":20,"text_lh_mb":20,"text_ls_mb":0,"text_mgb_mobile":0}}},"block_order":["heading-template-0"],"settings":{"use_specify_image":false,"parallax":false,"color":"#000000","overlay":50,"padding":10,"paddingmb":10,"mg_b":10,"mg_bmb":10,"content_align":"t4s-text-center","bg_pos":"center center","bg_repeat":"no-repeat","bg_size":"cover","use_cus_css":false,"code_cus_css":".SectionID {\nbackground-color:red\n}"}},"main-wishlist":{"type":"main-wishlist","blocks":{"main-wishlist-0":{"type":"layout","settings":{}}},"block_order":["main-wishlist-0"],"settings":{"product_des":"1","show_vendor":false,"use_cdt":false,"image_ratio":"ratioadapt","image_size":"cover","image_position":"8","content_align":"default","limit":12,"enable_listing":true,"enable_listing_default":false,"col_dk":"4","col_tb":"2","col_mb":"2","space_h_item":"30","space_v_item":"30","space_h_item_mb":"10","space_v_item_mb":"10","layout_des":"1","use_pagination":"default","enable_bar_lm":true,"btn_icon":false,"button_style":"default","btns_size":"large","btns_cl":"dark","button_effect":"default","btn_pos":"t4s-text-center","layout":"t4s-container-wrap","cl_bg":"","cl_bg_gradient":"","mg":",,50px,","pd":"","mg_mb":",,30px,","pd_mb":""}},"main-compare":{"type":"main-compare","blocks":{"main-compare-0":{"type":"basic","settings":{}},"main-compare-1":{"type":"availability","settings":{"title":"Availability"}},"main-compare-2":{"type":"vendor","settings":{"title":"Vendor"}},"main-compare-3":{"type":"variants","settings":{"title":"Color"}},"main-compare-4":{"type":"btn","settings":{"title":"RETURN TO SHOP","url":"","open_link":"_self","btn_icon":false,"button_style":"default","btns_size":"medium","btns_cl":"primary","button_effect":"default"}}},"block_order":["main-compare-0","main-compare-1","main-compare-2","main-compare-3","main-compare-4"],"settings":{"cl_price":"#95bf46","cl_price_sale":"#ec0101","cl_in":"#95bf46","cl_out":"#e1b878","image_ratio":"rationt","image_size":"cover","image_position":"8","content_align":"center","layout":"t4s-container-wrap","cl_bg":"","cl_bg_gradient":"","mg":",,50px,","pd":"","mg_mb":",,30px,","pd_mb":""}},"header-vertical":{"type":"header-vertical","blocks":{"header-vertical-0":{"type":"mega","settings":{"title":"Home","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"right-start","wid":"cus","cus_wid":1200,"id":1,"r_s_h_item":"30","r_s_v_item":"30"}},"header-vertical-1":{"type":"mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"right-start","wid":"cus","cus_wid":1200,"id":1,"r_s_h_item":"30","r_s_v_item":"30"}},"header-vertical-2":{"type":"base","settings":{"title":"base","url":"\/","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}},"0dec03c0-f79c-4d2b-946e-0a9c5d0a0d9a":{"type":"drop","settings":{"title":"Dropdown","url":"","open_link":"_self","menu":"main-menu","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"","pos_sub":"right-start"}}},"block_order":["header-vertical-0","header-vertical-1","header-vertical-2","0dec03c0-f79c-4d2b-946e-0a9c5d0a0d9a"],"settings":{"show_currency":true,"show_language":true,"arrow":true,"bgnav":"#ffffff","opnav":100,"clnav":"#222222","clnav_hover":"#56cfe1","h_icon":"kalles","hover_icon":"2","show_search":true,"show_acc":true,"show_wis":true,"cart_des":"1","bg_hc":"#000000","cl_hc":"#ffffff","source":"2","txt":"<p>Welcome to our store!<\/p>","h_navmb":62,"sticky_header":true,"scroll_header":true,"bgnavst":"#ffffff","opnavst":100,"clnavst":"#222222","clnavst_hover":"#56cfe1","fm_nav":"1","fs_nav":14,"fw_nav":500,"ls_nav":0.2}},"popups":{"type":"popups","blocks":{"fb7e1f62-7742-4049-b98d-595487170484":{"type":"cookie","disabled":true,"settings":{"text":"Cookies: Utilizamos cookies para personalizar anúncios e melhorar a sua experiência no site. Ao continuar navegando, você concordam com a nossa Política de segurança e privacidade!","accept":"Tudo Certo","decline":"","more":"","links":"","cl_btn":"#222222","cl_btn_hover":"#0a775a"}}},"block_order":["fb7e1f62-7742-4049-b98d-595487170484"],"settings":{}},"t4s_custom_color":{"type":"t4s_custom_color","settings":{}},"main-qs":{"type":"main-qs","blocks":{"main-qs-0":{"type":"title","settings":{"txt_tr_pr":"none","fnt_df_pr":"1","size_pr":24,"fw_pr":600,"lh_pr":0,"ls_pr":0,"pr_title_color":"#222222","pr_title_color_hover":"#222222"}},"main-qs-1":{"type":"price","settings":{"price":"1","type_sale":"2","size_price_pr":22,"fw_price_pr":400,"price_color":"#222222","price_sale_color":"#0a775a"}},"main-qs-2":{"type":"form","settings":{"selector_mode":"block","color_mode":"variant_image","enable_fit_ratio_img":true,"color_size":"large","show_qty":true,"enable_wishlist":true,"enable_compare":true,"pr_btn_round":40,"ani":"t4s-ani-shake","time":3,"btn_txt":"3","btn_icon":false,"button_style":"default","button_color":"custom1","button_effect":"sweep-to-top","show_dynamic_checkout":false,"btn_txt2":"3","button_color_payment":"dark"}}},"block_order":["main-qs-0","main-qs-1","main-qs-2"],"settings":{"demo_pr":"bermuda-cargo-militar-camuflada-masculina"}},"facets_tags":{"type":"facets_tags","blocks":{"14770600-c9ef-4dc1-afbb-0efa120a1bd4":{"type":"color","settings":{"hidden_block":false,"title":"By Color","arra_enter":"Red,White,Brown,Blue, Black, Green, Grey, Sliver,Pink","use_auto_filter_tag":false,"key":"Color"}}},"block_order":["14770600-c9ef-4dc1-afbb-0efa120a1bd4"],"settings":{}},"header-sidebar":{"type":"header-sidebar","settings":{"layout":"menu_left","full_header":true,"height":62,"frm_sea_mw":600,"bgnav":"#ffffff","opnav":100,"clnav":"#222222","clnav_hover":"#56cfe1","clsea":"#56cfe1","h_icon":"kalles","hover_icon":"2","show_search":true,"show_acc":true,"show_wis":true,"cart_des":"1","bg_hc":"#000000","cl_hc":"#ffffff","sticky_header":true,"scroll_header":true,"bgnavst":"#ffffff","opnavst":100,"clnavst":"#222222","clnavst_hover":"#56cfe1","clseast":"#56cfe1","transparent_header":false,"space_transparent_header":false,"bgnavtr":"#000000","opnavtr":40,"clnavtr":"#ffffff","clnavtr_hover":"#ffffff","clseatr":"#56cfe1","source":"2","txt":"<p>Welcome to our store!<\/p>"}},"header-categories-menu":{"type":"header-categories-menu","blocks":{"header-categories-menu-0":{"type":"mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"bottom","wid":"cus","cus_wid":1200,"id":1,"r_s_h_item":"30","r_s_v_item":"30"}},"header-categories-menu-1":{"type":"mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"bottom","wid":"cus","cus_wid":1200,"id":1,"r_s_h_item":"30","r_s_v_item":"30"}},"header-categories-menu-2":{"type":"base","settings":{"title":"base","url":"\/","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}}},"block_order":["header-categories-menu-0","header-categories-menu-1","header-categories-menu-2"],"settings":{"full_header":false,"height":90,"frm_sea_mw":600,"height2":50,"arrow":false,"border":false,"border_cate":false,"header_design":"1","align":"start","hover":"hover_sideup","h_navmb":62,"bgnav":"#ffffff","opnav":100,"clnav":"#222222","clnav_hover":"#56cfe1","bgsea":"#fafafa","clsea":"#56cfe1","bgnav2":"#56cfe1","clnav2":"#ffffff","bgcategory":"#007e91","h_icon":"kalles","hover_icon":"2","show_search":true,"show_acc":true,"show_wis":true,"cart_des":"1","bg_hc":"#000000","cl_hc":"#ffffff","sticky_header":true,"scroll_header":true,"bgnavst":"#ffffff","opnavst":100,"clnavst":"#222222","clnavst_hover":"#56cfe1","bgseavst":"#fafafa","clseast":"#56cfe1","transparent_header":false,"space_transparent_header":false,"bgnavtr":"#000000","opnavtr":40,"clnavtr":"#ffffff","clnavtr_hover":"#ffffff","bgseatr":"#fafafa","clseatr":"#56cfe1","fm_nav":"1","fs_nav":14,"fw_nav":400,"ls_nav":0,"txt_cat":"SHOP BY CATEGORY","text":"<i class=\"las la-phone fs__14\"><\/i> +01 23456789 <i class=\"las la-envelope fs__14 ml__15\"><\/i> <a class=\"cg\" href=\"mailto:kalles@domain.com\">kalles@domain.com<\/a>","shop_cat":true}},"header-categories":{"type":"header-categories","blocks":{"header-categories-0":{"type":"lv0_mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"right-start","wid":"cus","cus_wid":1200,"r_s_h_item":"20","r_s_v_item":"30"}},"header-categories-1":{"type":"lv0_mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"right-start","wid":"cus","cus_wid":1200,"r_s_h_item":"20","r_s_v_item":"30"}},"header-categories-2":{"type":"lv0_base","settings":{"title":"base","url":"\/","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}}},"block_order":["header-categories-0","header-categories-1","header-categories-2"],"settings":{"arrow":true}},"header-bottom":{"type":"header-bottom","blocks":{"header-bottom-0":{"type":"mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"bottom","wid":"cus","cus_wid":1200,"id":1,"enable_packery":true,"r_s_h_item":"30","r_s_v_item":"30"}},"header-bottom-1":{"type":"mega","settings":{"title":"mega","url":"","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":"#00badb","pos_sub":"bottom","wid":"cus","cus_wid":1200,"id":1,"enable_packery":true,"r_s_h_item":"30","r_s_v_item":"30"}},"header-bottom-2":{"type":"base","settings":{"title":"base","url":"\/","open_link":"_self","icon":"","cus_cl":false,"cl":"#ec0101","lb":"","lb_cl":""}}},"block_order":["header-bottom-0","header-bottom-1","header-bottom-2"],"settings":{"full_header":false,"height":90,"height2":50,"arrow":false,"border":true,"align":"center","hover":"hover_sideup","h_navmb":62,"bgnav":"#ffffff","opnav":100,"clnav":"#222222","clnav_hover":"#56cfe1","h_icon":"kalles","hover_icon":"2","show_search":true,"show_acc":true,"show_wis":true,"cart_des":"1","bg_hc":"#000000","cl_hc":"#ffffff","sticky_header":true,"scroll_header":true,"bgnavst":"#ffffff","opnavst":100,"clnavst":"#222222","clnavst_hover":"#56cfe1","transparent_header":false,"space_transparent_header":false,"bgnavtr":"#000000","opnavtr":40,"clnavtr":"#ffffff","clnavtr_hover":"#ffffff","source":"2","txt":"<p>Welcome to our store!<\/p>","fm_nav":"1","fs_nav":14,"fw_nav":400,"ls_nav":0}}},"content_for_index":[],"blocks":{"14327677521557774844":{"type":"shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b","disabled":false,"settings":{}}}},"platform_customizations":{"custom_css":[".t4s-product-price {color: #79ac78;}"]}}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "current": {
+    "purchase_code": "Nameless Hero",
+    "body_bg": "#ffffff",
+    "home_keywords": "decoração para casa ,  decoracao para casamento , produtos para casa ,  decoração apartamento pequeno ,  decoração apartamento ,",
+    "shop_author": "polihousi",
+    "use_rtl": "0",
+    "list_rtl": "pt",
+    "prevent_copying": true,
+    "falling_snow": false,
+    "platform_email": "1",
+    "checkbox_mail": false,
+    "timezone": "America\/Sao_Paulo",
+    "header_design": "inline",
+    "logo": "shopify:\/\/shop_images\/logo_1.png",
+    "logo_width": 230,
+    "logos": "shopify:\/\/shop_images\/kalles.png",
+    "logos_width": 300,
+    "logo_mb": "shopify:\/\/shop_images\/jbn.jpg",
+    "logo_mb_width": 350,
+    "logo_tr": "shopify:\/\/shop_images\/header-logo-01.png",
+    "logo_tr_width": 95,
+    "mobile_nav_type": "4",
+    "only_icon": false,
+    "heading_color": "#000000",
+    "text_color": "#000000",
+    "accent_color": "#0a775a",
+    "secondary_color": "#000000",
+    "loading_bar_color": "#0a775a",
+    "border_color": "#000000",
+    "border_primary_color": "#000000",
+    "price_primary": "#0a775a",
+    "price_secondary": "#000000",
+    "link_color": "#000000",
+    "link_color_hover": "#1c1c1c",
+    "btn_bg": "#1c1c1c",
+    "cl_lazyload": "#0a775a",
+    "use_cus_lz": true,
+    "cus_lz": "shopify:\/\/shop_images\/polihousifaviconovo.png",
+    "bg_tooltip": "#1c1c1c",
+    "sw_primary": "#050505",
+    "sw_secondary": "#4e4e4e",
+    "sw_border": "#050505",
+    "font_source": "1",
+    "fnt_fm_sp1": "varela_round_n4",
+    "fnt_fm_sp2": "varela_round_n4",
+    "fnt_fm_sp3": "varela_round_n4",
+    "fnt_fm_gg2": "Poppins",
+    "fnt_fm_gg3": "Libre Baskerville",
+    "bd_fsize": 14,
+    "hd_ffamily": "1",
+    "fs_h2": 29,
+    "enable_ajax_cart": true,
+    "wishlist_mode": "1",
+    "enable_compe": false,
+    "app_review": "7",
+    "badge_shape": "2",
+    "label_sale_style": "2",
+    "use_new_badge": false,
+    "use_custom_badge": true,
+    "sale_badge_color": "#0a775a",
+    "new_badge_color": "#0a775a",
+    "preorder_badge_color": "#000000",
+    "soldout_badge_color": "#939393",
+    "custom_badge_color": "#0a775a",
+    "color_ck": "Cor, Cores",
+    "use_link_vendor": false,
+    "price_varies_style": "2",
+    "type_qv": "2",
+    "enable_rating": false,
+    "show_qty": false,
+    "pr_border_style": "1",
+    "enable_pr_color": false,
+    "swatch_color_style": "1",
+    "swatch_item_style": "2",
+    "show_color_type": "1",
+    "enable_pr_size": false,
+    "pr_size_pos": "2",
+    "size_ck": "",
+    "pr_img_effect": "2",
+    "pr_curent": "2",
+    "use_group_media": true,
+    "show_first_media": true,
+    "use_change_variant_by_img": true,
+    "enable_his": true,
+    "use_incoming_mess": false,
+    "variant_remove": "1",
+    "share_source": "1",
+    "min_qty": "0",
+    "edit_item": "0",
+    "cart_type": "drawer",
+    "free_ship_pr": "",
+    "enable_shipbar": false,
+    "des_shipbar": "0",
+    "gift_wrap_pr": "garantia-extendida-de-1-ano",
+    "use_privacy_policy": false,
+    "return_login": "",
+    "filter_type_search": false,
+    "show_search_suggest": true,
+    "search_prs_suggest": "lancamentos",
+    "show_search_hotkey": true,
+    "currency_code_enabled": false,
+    "auto_currency": false,
+    "currency_type": "1",
+    "flag_currency": false,
+    "size_currency": "sm",
+    "round_currency": false,
+    "notify_currency": false,
+    "hover_currency": false,
+    "share_image": "shopify:\/\/shop_images\/Logo_Atitude_versatil_204X44px-PhotoRoom.png",
+    "share_twitter": false,
+    "share_tumblr": false,
+    "share_email": true,
+    "share_telegram": false,
+    "share_whatsapp": true,
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=61555969997142",
+    "social_twitter_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/atitudeversatil4",
+    "social_dribbble_link": "",
+    "social_linkedin_link": "",
+    "social_pinterest_link": "https:\/\/br.pinterest.com\/atitudeversatil\/",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCXBZXSbe4BSSCFHeMMn4UtA",
+    "social_vimeo_link": "",
+    "social_behance_link": "",
+    "social_soundcloud_link": "",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@atitude.versatil",
+    "favicon": "shopify:\/\/shop_images\/Favicon_50x50px_98ab0526-f60a-4a72-9bc1-e30ee8433b2b.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#f2f2f2",
+    "checkout_accent_color": "#8c8888",
+    "checkout_button_color": "#39c172",
+    "pr_incoming_mess": true,
+    "use_vimg": true,
+    "sticky_atc": true,
+    "fnt_fm_button": "1",
+    "sections": {
+      "bottom-bar": {
+        "type": "bottom-bar",
+        "blocks": {
+          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "col_dk": "12",
+              "col_tb": "12",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          },
+          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
+            "type": "copyR",
+            "settings": {
+              "text": "Copyright © [year] <span class=\"t4s-cp\">atitudeversatil.com.br<\/span> É vedada qualquer reprodução, total ou parcial, nos termos da Lei nº 9.610\/98 . Todos os direitos reservados.",
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "9ad9cb9a-eb43-4b01-9970-291132a422e3": {
+            "type": "copyR",
+            "settings": {
+              "text": "Rua Arminda, S\/N - Coelho da Rocha São João de Meriti - RJ",
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "031775d8-955b-41e8-86d5-3fc1954babd9": {
+            "type": "copyR",
+            "settings": {
+              "text": "Atitude Versátil CNPJ: 33.935.530\/0001-80",
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "5154bee8-a3df-4bf2-808a-d206838908a4": {
+            "type": "payments",
+            "settings": {
+              "svg": "american_express,boleto,master,visa,elo,pix",
+              "height": 30,
+              "hidden_mobile": false,
+              "mgb": 20,
+              "mgb_mb": 10
+            }
+          },
+          "47f5eb4c-1063-495d-bfc4-a54c62d219aa": {
+            "type": "bl_col",
+            "disabled": true,
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "col_dk": "4",
+              "col_tb": "4",
+              "col_mb": "11",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          }
+        },
+        "block_order": [
+          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3",
+          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08",
+          "9ad9cb9a-eb43-4b01-9970-291132a422e3",
+          "031775d8-955b-41e8-86d5-3fc1954babd9",
+          "5154bee8-a3df-4bf2-808a-d206838908a4",
+          "47f5eb4c-1063-495d-bfc4-a54c62d219aa"
+        ],
+        "settings": {
+          "border_top": false,
+          "border_pos": "in",
+          "space_h_item": "30",
+          "space_v_item": "0",
+          "space_h_item_mb": "0",
+          "space_v_item_mb": "0",
+          "heading_fontf": "inherit",
+          "heading_fs": 16,
+          "heading_lh": 22,
+          "heading_fw": 500,
+          "heading_ls": 0,
+          "mgb": 30,
+          "mgb_mb": 20,
+          "text_fs": 14,
+          "text_fw": 400,
+          "heading_cl": "#ffffff",
+          "text_cl": "#878787",
+          "link_cl": "#878787",
+          "link_hover_cl": "#000000",
+          "border_cl": "#e6e6e6",
+          "layout": "t4s-container-wrap",
+          "cl_bg": "#ffffff",
+          "cl_bg_gradient": "",
+          "mg": "",
+          "pd": "20px,,5px,",
+          "mg_tb": "",
+          "pd_tb": "",
+          "mg_mb": "",
+          "pd_mb": "20px,,5px,"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "de84a111-3ed0-40a2-b86a-1e81488e9bff": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link_img": "",
+              "img_width": 130,
+              "img_width_mb": 0,
+              "mgb": 34,
+              "mgb_mb": 24
+            }
+          },
+          "footer-4": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "NOSSAS POLÍTICAS",
+              "menu": "footer",
+              "menu_style": "1",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "5px,0,0,0",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "footer-6": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "CATEGORIAS",
+              "menu": "categorias",
+              "menu_style": "1",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "5px,0,0,0",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "footer-8": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "INFORMAÇÕES",
+              "menu": "informa-es",
+              "menu_style": "1",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "5px,0,0,0",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "footer-10": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "CENTRAL DE ATENDIMENTO",
+              "menu": "",
+              "menu_style": "2",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "0px,,0px,,",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "footer-2": {
+            "type": "html",
+            "settings": {
+              "html_content": "<p style=\"display:flex;\"><svg style=\"width: 24px;height: 02px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\">\n\n<\/svg><\/p><p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 28.244 7.47 h -25.572 v 17.06 h 26.656 v -17.06 h -1.084 Z M 27.177 8.536 l -10.298 10.298 c -0.47 0.47 -1.289 0.47 -1.759 0 l -10.3 -10.298 h 22.356 Z M 3.738 8.961 l 6.923 6.922 l -6.923 6.923 v -13.846 Z M 4.589 23.464 l 6.827 -6.826 l 2.951 2.95 c 0.436 0.436 1.016 0.677 1.633 0.677 s 1.197 -0.241 1.633 -0.677 l 2.951 -2.951 l 6.826 6.826 h -22.822 Z M 28.262 22.807 l -6.923 -6.924 l 6.923 -6.924 v 13.848 Z\"><\/path><\/svg> <span>contato@atitudeversatil.com.br<\/span><\/p> \n<p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 23.407 30.394 c -2.431 0 -8.341 -3.109 -13.303 -9.783 c -4.641 -6.242 -6.898 -10.751 -6.898 -13.785 c 0 -2.389 1.65 -3.529 2.536 -4.142 l 0.219 -0.153 c 0.979 -0.7 2.502 -0.927 3.086 -0.927 c 1.024 0 1.455 0.599 1.716 1.121 c 0.222 0.442 2.061 4.39 2.247 4.881 c 0.286 0.755 0.192 1.855 -0.692 2.488 l -0.155 0.108 c -0.439 0.304 -1.255 0.869 -1.368 1.557 c -0.055 0.334 0.057 0.684 0.342 1.068 c 1.423 1.918 5.968 7.55 6.787 8.314 c 0.642 0.6 1.455 0.685 2.009 0.218 c 0.573 -0.483 0.828 -0.768 0.83 -0.772 l 0.059 -0.057 c 0.048 -0.041 0.496 -0.396 1.228 -0.396 c 0.528 0 1.065 0.182 1.596 0.541 c 1.378 0.931 4.487 3.011 4.487 3.011 l 0.05 0.038 c 0.398 0.341 0.973 1.323 0.302 2.601 c -0.695 1.327 -2.85 4.066 -5.079 4.066 Z M 9.046 2.672 c -0.505 0 -1.746 0.213 -2.466 0.728 l -0.232 0.162 c -0.827 0.572 -2.076 1.435 -2.076 3.265 c 0 2.797 2.188 7.098 6.687 13.149 c 4.914 6.609 10.532 9.353 12.447 9.353 c 1.629 0 3.497 -2.276 4.135 -3.494 c 0.392 -0.748 0.071 -1.17 -0.04 -1.284 c -0.36 -0.241 -3.164 -2.117 -4.453 -2.988 c -0.351 -0.238 -0.688 -0.358 -0.999 -0.358 c -0.283 0 -0.469 0.1 -0.532 0.14 c -0.104 0.111 -0.39 0.405 -0.899 0.833 c -0.951 0.801 -2.398 0.704 -3.424 -0.254 c -0.923 -0.862 -5.585 -6.666 -6.916 -8.459 c -0.46 -0.62 -0.641 -1.252 -0.538 -1.877 c 0.187 -1.133 1.245 -1.866 1.813 -2.26 l 0.142 -0.099 c 0.508 -0.363 0.4 -1.02 0.316 -1.242 c -0.157 -0.414 -1.973 -4.322 -2.203 -4.781 c -0.188 -0.376 -0.336 -0.533 -0.764 -0.533 Z\"><\/path><\/svg><span> <a href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\">(21) 98959-0075<\/a><\/span><\/p>",
+              "hidden_mobile": false
+            }
+          },
+          "footer-11": {
+            "type": "custom_text",
+            "settings": {
+              "text": "Inscreva-se em nossa newsletter para saber dos lançamentos e promoções antes de todo mundo!",
+              "remove_br_tag": false,
+              "fontf": "1",
+              "text_cl": "#000000",
+              "text_fs": 14,
+              "text_lh": 24,
+              "text_fw": 400,
+              "text_ls": 0,
+              "font_italic": true,
+              "text_shadow": false,
+              "text_mgb": 18,
+              "hidden_mobile": false,
+              "text_fs_mb": 16,
+              "text_lh_mb": 0,
+              "text_ls_mb": 0,
+              "text_mgb_mobile": 18
+            }
+          },
+          "footer-12": {
+            "type": "newsletter",
+            "settings": {
+              "form_width": 0,
+              "form_width_mb": 0,
+              "newl_des": "1",
+              "news_align": "center",
+              "newl_size": "small",
+              "btn_icon": false,
+              "input_cl": "#b8b8b8",
+              "border_cl": "#000000",
+              "btn_cl": "#ffffff",
+              "btn_bg_cl": "#222222",
+              "btn_hover_cl": "#ffffff",
+              "btn_hover_bg_cl": "#0a775a",
+              "hidden_mobile": false,
+              "mgb": 22,
+              "mgb_mb": 20
+            }
+          },
+          "55bb833e-7665-4efc-b726-738601b89ecc": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "384ae6fa-76f9-4332-bcb0-d0b0cc53bc2c": {
+            "type": "cus_socials",
+            "settings": {
+              "title": "SIGA-NOS:",
+              "social_mode": "1",
+              "social_style": "4",
+              "social_size": "medium",
+              "bd_radius": 0,
+              "use_color_set": false,
+              "icon_cl": "#878787",
+              "bg_cl": "#222222",
+              "space_h_item": "5",
+              "space_v_item": "5",
+              "space_h_item_mb": "6",
+              "space_v_item_mb": "2"
+            }
+          },
+          "f4f624ea-d626-48fc-9dde-8ccd1d378ca0": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_dk": "2",
+              "col_tb": "6",
+              "col_mb": "3",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          },
+          "f696bb69-4bd5-4c7d-ba3f-d1816691c173": {
+            "type": "image",
+            "settings": {
+              "link_img": "https:\/\/www.sslshopper.com\/ssl-checker.html#hostname=polihousi.com",
+              "img_width": 110,
+              "img_width_mb": 80,
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "9c4251b6-d019-4caa-bbe7-585661ccc7a2": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_dk": "2",
+              "col_tb": "6",
+              "col_mb": "3",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          },
+          "152a5889-f1db-48a0-8678-e0207518546b": {
+            "type": "image",
+            "settings": {
+              "link_img": "https:\/\/www.reclameaqui.com.br\/empresa\/polihousi\/",
+              "img_width": 110,
+              "img_width_mb": 80,
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "54d1400b-ed63-4bf1-a570-9e0a88a8d3a0": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_dk": "2",
+              "col_tb": "6",
+              "col_mb": "3",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          },
+          "960dce10-0ce1-451b-ae91-c7122e374817": {
+            "type": "image",
+            "settings": {
+              "link_img": "https:\/\/transparencyreport.google.com\/safe-browsing\/search?url=polihousi.com&hl=pt_BR",
+              "img_width": 110,
+              "img_width_mb": 80,
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          }
+        },
+        "block_order": [
+          "de84a111-3ed0-40a2-b86a-1e81488e9bff",
+          "footer-4",
+          "footer-6",
+          "footer-8",
+          "footer-10",
+          "footer-2",
+          "footer-11",
+          "footer-12",
+          "55bb833e-7665-4efc-b726-738601b89ecc",
+          "384ae6fa-76f9-4332-bcb0-d0b0cc53bc2c",
+          "f4f624ea-d626-48fc-9dde-8ccd1d378ca0",
+          "f696bb69-4bd5-4c7d-ba3f-d1816691c173",
+          "9c4251b6-d019-4caa-bbe7-585661ccc7a2",
+          "152a5889-f1db-48a0-8678-e0207518546b",
+          "54d1400b-ed63-4bf1-a570-9e0a88a8d3a0",
+          "960dce10-0ce1-451b-ae91-c7122e374817"
+        ],
+        "settings": {
+          "sticky": false,
+          "collapse": true,
+          "border_top": true,
+          "border_pos": "in",
+          "space_h_item": "30",
+          "space_v_item": "30",
+          "space_h_item_mb": "0",
+          "space_v_item_mb": "30",
+          "heading_fontf": "inherit",
+          "heading_fs": 16,
+          "heading_lh": 22,
+          "heading_fw": 500,
+          "heading_ls": 0,
+          "mgb": 30,
+          "mgb_mb": 20,
+          "text_fs": 15,
+          "text_fw": 400,
+          "heading_cl": "#000000",
+          "text_cl": "#000000",
+          "link_cl": "#000000",
+          "link_hover_cl": "#000000",
+          "border_cl": "#000000",
+          "layout": "t4s-container-wrap",
+          "cl_bg": "#ffffff",
+          "cl_bg_gradient": "radial-gradient(rgba(254, 217, 81, 1) 11%, rgba(NaN, NaN, NaN, 1) 58%)",
+          "mg": "",
+          "pd": "30px,,30px,",
+          "mg_tb": "",
+          "pd_tb": "",
+          "mg_mb": "",
+          "pd_mb": "45px,,45px,"
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-1": {
+            "type": "announcement",
+            "settings": {
+              "link": "https:\/\/visaobrasil.com\/account\/login",
+              "content": "<p>Sua primeira vez? Cadastre-se e aproveite o desconto de 10% OFF. <strong>Cupom: VBLORD <\/strong>[icon_arrow]<\/p>",
+              "countdown": "",
+              "txt_day": "",
+              "dayx": 0
+            }
+          },
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "link": "",
+              "content": "<p>Semana de <strong>FRETE GRÁTIS<\/strong>, aproveite! | Parcele em  até 12x no cartão<\/p>",
+              "countdown": "",
+              "txt_day": "",
+              "dayx": 0
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-1",
+          "announcement-bar-0"
+        ],
+        "settings": {
+          "show_announcement": false,
+          "effect": "1",
+          "au_time": 4,
+          "height": 30,
+          "fontsize": 12,
+          "cl": "#ffffff",
+          "bg": "#1c1c1c",
+          "bg_op": 100,
+          "close": "0",
+          "cl_btn": "#ffffff",
+          "version": "2",
+          "date": 0
+        }
+      },
+      "top-bar": {
+        "type": "top-bar",
+        "blocks": {
+          "top-bar-0": {
+            "type": "html",
+            "settings": {
+              "html": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n   <path d=\"M23.407 30.394c-2.431 0-8.341-3.109-13.303-9.783-4.641-6.242-6.898-10.751-6.898-13.785 0-2.389 1.65-3.529 2.536-4.142l0.219-0.153c0.979-0.7 2.502-0.927 3.086-0.927 1.024 0 1.455 0.599 1.716 1.121 0.222 0.442 2.061 4.39 2.247 4.881 0.286 0.755 0.192 1.855-0.692 2.488l-0.155 0.108c-0.439 0.304-1.255 0.869-1.368 1.557-0.055 0.334 0.057 0.684 0.342 1.068 1.423 1.918 5.968 7.55 6.787 8.314 0.642 0.6 1.455 0.685 2.009 0.218 0.573-0.483 0.828-0.768 0.83-0.772l0.059-0.057c0.048-0.041 0.496-0.396 1.228-0.396 0.528 0 1.065 0.182 1.596 0.541 1.378 0.931 4.487 3.011 4.487 3.011l0.050 0.038c0.398 0.341 0.973 1.323 0.302 2.601-0.695 1.327-2.85 4.066-5.079 4.066zM9.046 2.672c-0.505 0-1.746 0.213-2.466 0.728l-0.232 0.162c-0.827 0.572-2.076 1.435-2.076 3.265 0 2.797 2.188 7.098 6.687 13.149 4.914 6.609 10.532 9.353 12.447 9.353 1.629 0 3.497-2.276 4.135-3.494 0.392-0.748 0.071-1.17-0.040-1.284-0.36-0.241-3.164-2.117-4.453-2.988-0.351-0.238-0.688-0.358-0.999-0.358-0.283 0-0.469 0.1-0.532 0.14-0.104 0.111-0.39 0.405-0.899 0.833-0.951 0.801-2.398 0.704-3.424-0.254-0.923-0.862-5.585-6.666-6.916-8.459-0.46-0.62-0.641-1.252-0.538-1.877 0.187-1.133 1.245-1.866 1.813-2.26l0.142-0.099c0.508-0.363 0.4-1.020 0.316-1.242-0.157-0.414-1.973-4.322-2.203-4.781-0.188-0.376-0.336-0.533-0.764-0.533z\" fill=\"currentColor\"><\/path>\n<\/svg>\n<a class=\"t4s-ct\" href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\"> (21) 98959-0075<\/a> \n<svg class=\"ml__15\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink \">\n   <path d=\"M28.244 7.47h-25.572v17.060h26.656v-17.060h-1.084zM27.177 8.536l-10.298 10.298c-0.47 0.47-1.289 0.47-1.759 0l-10.3-10.298h22.356zM3.738 8.961l6.923 6.922-6.923 6.923v-13.846zM4.589 23.464l6.827-6.826 2.951 2.95c0.436 0.436 1.016 0.677 1.633 0.677s1.197-0.241 1.633-0.677l2.951-2.951 6.826 6.826h-22.822zM28.262 22.807l-6.923-6.924 6.923-6.924v13.848z\" fill=\"currentColor\"><\/path>\n<\/svg> \n<a class=\"t4s-ct\" href=\"mailto:contato@atitudeversatil.com.br\">contato@atitudeversatil.com.br<\/a>",
+              "hide": true,
+              "text_align": "start",
+              "col": "4"
+            }
+          },
+          "top-bar-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Ganhe<strong> 5% <\/strong>de Desconto no<strong> Pix <\/strong>;;;<strong> Frete Grátis <\/strong>para todo o Brasil<\/p>",
+              "countdown": "",
+              "txt_day": "",
+              "dayx": 0,
+              "effect": "1",
+              "au_time": 3.5,
+              "fw_bold": 600,
+              "cl_a": "#39c172",
+              "cl_bold": "#ffffff",
+              "cl_a_tr": "#ffffff",
+              "cl_bold_tr": "#ec0101",
+              "hide": false,
+              "text_align": "center",
+              "col": "4"
+            }
+          },
+          "c6c596ed-a750-4ffb-a898-ebe5118e29b5": {
+            "type": "social",
+            "settings": {
+              "social": "2",
+              "hide": true,
+              "text_align": "end",
+              "col": "4"
+            }
+          }
+        },
+        "block_order": [
+          "top-bar-0",
+          "top-bar-1",
+          "c6c596ed-a750-4ffb-a898-ebe5118e29b5"
+        ],
+        "custom_css": [
+          ".t4s-ct {display: none;}",
+          ".t4s-top-bar svg {display: none;}"
+        ],
+        "settings": {
+          "show_topbar": true,
+          "topbar_transparent": true,
+          "height": 45,
+          "fontsize": 13,
+          "cl": "#ffffff",
+          "cl_a_hover": "#939393",
+          "bg": "#000000",
+          "bg_op": 100,
+          "show_border": false,
+          "bd_cl": "#000000",
+          "cl_tr": "#ffffff",
+          "cl_a_hover_tr": "#ffffff",
+          "bg_tr": "#000000",
+          "bg_op_tr": 10,
+          "show_border_tr": false,
+          "bd_cl_tr": "#000000"
+        }
+      },
+      "header-inline": {
+        "type": "header-inline",
+        "blocks": {
+          "drop_3MWpKP": {
+            "type": "drop",
+            "settings": {
+              "title": "Panela Elétrica",
+              "url": "shopify:\/\/collections\/frontpage",
+              "open_link": "_self",
+              "menu": "coisas-de-casas",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "drop_E4AYnG": {
+            "type": "drop",
+            "settings": {
+              "title": "Liquidificadores",
+              "url": "shopify:\/\/collections\/decoracao",
+              "open_link": "_self",
+              "menu": "decoracao-moderna",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "drop_qC8giU": {
+            "type": "drop",
+            "settings": {
+              "title": "Mata Mosquito Eletrico",
+              "url": "shopify:\/\/blogs\/novidades",
+              "open_link": "_self",
+              "menu": "dicas-para-casa",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "drop_7BVDwc": {
+            "type": "drop",
+            "settings": {
+              "title": "Dispenser Para Sabonete Liquido",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "base_AyTfnU": {
+            "type": "base",
+            "settings": {
+              "title": "contato",
+              "url": "shopify:\/\/pages\/contact",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "base_wU8wRp": {
+            "type": "base",
+            "settings": {
+              "title": "Rastreio",
+              "url": "shopify:\/\/pages\/rastreio",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "drop_3MWpKP",
+          "drop_E4AYnG",
+          "drop_qC8giU",
+          "drop_7BVDwc",
+          "base_AyTfnU",
+          "base_wU8wRp"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "layout": "logo_left",
+          "full_header": true,
+          "height": 90,
+          "arrow": true,
+          "align": "center",
+          "hover": "hover_sideup",
+          "h_navmb": 60,
+          "bgnav": "#000000",
+          "opnav": 100,
+          "clnav": "#ffffff",
+          "clnav_hover": "#ffffff",
+          "h_icon": "kalles",
+          "hover_icon": "3",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "2",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "sticky_header": true,
+          "scroll_header": false,
+          "bgnavst": "#000000",
+          "opnavst": 100,
+          "clnavst": "#ffffff",
+          "clnavst_hover": "#ffffff",
+          "transparent_header": false,
+          "space_transparent_header": true,
+          "bgnavtr": "#afafb3",
+          "opnavtr": 40,
+          "clnavtr": "#000000",
+          "clnavtr_hover": "#ffffff",
+          "fm_nav": "1",
+          "fs_nav": 14,
+          "fw_nav": 500,
+          "ls_nav": 0
+        }
+      },
+      "title_config": {
+        "type": "title_config",
+        "blocks": {
+          "title_config-0": {
+            "type": "title",
+            "settings": {
+              "color": "#222222",
+              "family": "2",
+              "size": 24,
+              "weight": 600,
+              "lh": 34,
+              "ls": 0,
+              "space": 0,
+              "size_mb": 18,
+              "lh_mb": 30,
+              "ls_mb": 0,
+              "space_mb": 0
+            }
+          },
+          "title_config-1": {
+            "type": "subtitle",
+            "settings": {
+              "italic": true,
+              "color": "#878787",
+              "family": "3",
+              "size": 14,
+              "weight": 400,
+              "lh": 0,
+              "ls": 0,
+              "space": 0,
+              "size_mb": 14,
+              "lh_mb": 0,
+              "ls_mb": 0,
+              "space_mb": 0
+            }
+          }
+        },
+        "block_order": [
+          "title_config-0",
+          "title_config-1"
+        ],
+        "settings": {
+          "design_heading": "1",
+          "heading_align": "t4s-text-center",
+          "top_heading": "Accordion",
+          "icon_heading": "las la-gem",
+          "top_subheading": "",
+          "tophead_mb": 30
+        }
+      },
+      "pr_item_config": {
+        "type": "pr_item_config",
+        "blocks": {
+          "pr_item_config-0": {
+            "type": "1",
+            "settings": {
+              "heading": "Modelo padrão Loja",
+              "addtocart_color": "#0a775a",
+              "addtocart_color_hover": "#ffffff",
+              "quickview_color": "#0a775a",
+              "quickview_color_hover": "#1c1c1c",
+              "wishlist_color": "#1c1c1c",
+              "wishlist_color_hover": "#222222",
+              "wishlist_color_active": "#770a0a",
+              "compare_color": "#ffffff",
+              "compare_color_hover": "#222222",
+              "size_list_color": "#ffffff"
+            }
+          },
+          "pr_item_config-1": {
+            "type": "2",
+            "settings": {
+              "heading": "Modelo full blaack",
+              "addtocart_color": "#ffffff",
+              "addtocart_color_hover": "#222222",
+              "quickview_color": "#ffffff",
+              "quickview_color_hover": "#222222",
+              "wishlist_color": "#ffffff",
+              "wishlist_color_hover": "#222222",
+              "wishlist_color_active": "#e81e63",
+              "compare_color": "#ffffff",
+              "compare_color_hover": "#222222",
+              "size_list_color": "#ffffff"
+            }
+          },
+          "977f60cb-440c-4e8e-beaa-b55b503aaa7c": {
+            "type": "3",
+            "settings": {
+              "heading": "Modelo azul",
+              "addtocart_color": "#ffffff",
+              "addtocart_color_hover": "#222222",
+              "quickview_color": "#ffffff",
+              "quickview_color_hover": "#222222",
+              "wishlist_color": "#ffffff",
+              "wishlist_color_hover": "#222222",
+              "wishlist_color_active": "#e81e63",
+              "compare_color": "#ffffff",
+              "compare_color_hover": "#222222",
+              "size_list_color": "#ffffff"
+            }
+          },
+          "83670c68-17f0-43a9-8caa-b96cca9a3b05": {
+            "type": "list",
+            "settings": {
+              "heading": "Product list",
+              "content_color": "#878787",
+              "addtocart_color": "#56cfe1",
+              "addtocart_color_hover": "#222222",
+              "quickview_color": "#56cfe1",
+              "quickview_color_hover": "#222222",
+              "wishlist_color": "#ffffff",
+              "wishlist_color_hover": "#222222",
+              "wishlist_color_active": "#e81e63",
+              "compare_color": "#ffffff",
+              "compare_color_hover": "#222222",
+              "size_list_color": "#ffffff"
+            }
+          },
+          "a8021fa1-2248-47ff-a3a7-9433011a17bc": {
+            "type": "packery",
+            "settings": {
+              "heading": "Product packery",
+              "pr_title_color": "#ffffff",
+              "pr_title_color_hover": "#ef4949",
+              "price_color": "#ffffff",
+              "price_sale_color": "#ec0101",
+              "addtocart_color": "#ffffff",
+              "addtocart_color_hover": "#222222",
+              "quickview_color": "#ffffff",
+              "quickview_color_hover": "#222222",
+              "wishlist_color": "#ffffff",
+              "wishlist_color_hover": "#222222",
+              "wishlist_color_active": "#e81e63",
+              "compare_color": "#ffffff",
+              "compare_color_hover": "#222222",
+              "size_list_color": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "pr_item_config-0",
+          "pr_item_config-1",
+          "977f60cb-440c-4e8e-beaa-b55b503aaa7c",
+          "83670c68-17f0-43a9-8caa-b96cca9a3b05",
+          "a8021fa1-2248-47ff-a3a7-9433011a17bc"
+        ],
+        "settings": {
+          "txt_tr_pr": "none",
+          "fnt_df_pr": "1",
+          "size_pr": 14,
+          "fw_pr": 500,
+          "lh_pr": 20,
+          "ls_pr": 0,
+          "size_price_pr": 14,
+          "fw_price_pr": 400,
+          "space_img_content": 15,
+          "space_elements": 0,
+          "swatch_color_size": 16,
+          "swatch_color_size_mb": 20,
+          "pr_btn_round": 40,
+          "pr_title_color": "#222222",
+          "pr_title_color_hover": "#0a775a",
+          "price_color": "#b6b6b6",
+          "price_sale_color": "#0a775a",
+          "vendors_color": "#878787",
+          "vendors_color_hover": "#ef4949",
+          "countdown_color": "#ef4949",
+          "countdown_overlay": 100,
+          "pr_bg_overlay": "#000000",
+          "pr_overlay": 0
+        }
+      },
+      "btn_config": {
+        "type": "btn_config",
+        "blocks": {
+          "btn_config-0": {
+            "type": "custom1",
+            "settings": {
+              "color_primary": "#0a775a",
+              "color_second": "#ffffff",
+              "color_primary_hover": "#1c1c1c",
+              "color_second_hover": "#ffffff"
+            }
+          },
+          "btn_config-1": {
+            "type": "custom2",
+            "settings": {
+              "color_primary": "#1c1c1c",
+              "color_second": "#ffffff",
+              "color_primary_hover": "#0a775a",
+              "color_second_hover": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "btn_config-0",
+          "btn_config-1"
+        ],
+        "settings": {
+          "fnt_fm_button": "--font-family-1",
+          "btn_fw": 600,
+          "btn_bdr": 60,
+          "button_effect": "default"
+        }
+      },
+      "toolbar_mobile": {
+        "type": "toolbar_mobile",
+        "blocks": {
+          "6de4c8b5-fc73-40fe-b6e8-0f2ea261f985": {
+            "type": "home",
+            "settings": {
+              "title": "Inicio"
+            }
+          },
+          "695d53f0-a1ab-43e6-8c07-fe40bfebe48a": {
+            "type": "search",
+            "settings": {
+              "title": "Pesquisar"
+            }
+          },
+          "toolbar_mobile-1": {
+            "type": "wish",
+            "settings": {
+              "title": "Desejos"
+            }
+          },
+          "toolbar_mobile-2": {
+            "type": "cart",
+            "settings": {
+              "title": "Carrinho"
+            }
+          }
+        },
+        "block_order": [
+          "6de4c8b5-fc73-40fe-b6e8-0f2ea261f985",
+          "695d53f0-a1ab-43e6-8c07-fe40bfebe48a",
+          "toolbar_mobile-1",
+          "toolbar_mobile-2"
+        ],
+        "settings": {
+          "enable_toolbar": true,
+          "show_txt": true
+        }
+      },
+      "back_top": {
+        "type": "back_top",
+        "settings": {
+          "enable_backtop": true,
+          "enable_hidden_mobile": false,
+          "backtop_des": "1"
+        }
+      },
+      "mega-menu": {
+        "type": "mega-menu",
+        "blocks": {
+          "583a30c7-369d-4a64-a51d-ca53c1685206": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 1
+            }
+          },
+          "3abb98a1-837d-46af-b195-f5c43e7c88ee": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "HOME PAGES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "2ceac397-4b2b-4740-a477-707dd2680e02": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "HOME PAGES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "1f90cea5-04fb-4ef3-822b-5f987845e5c4": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "HEADER LAYOUTS",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "6122e966-0272-4c46-a1a0-051bdc2ae08c": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "FEATURES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "45fa281e-2be5-4727-bd01-942824713769": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 2
+            }
+          },
+          "02beea21-3cb9-41ce-a1ab-04ae44b7f47e": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "SHOP PAGES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "2"
+            }
+          },
+          "ff494243-e58b-40e9-a2ea-e64ccd58a624": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "FEATURES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "2"
+            }
+          },
+          "cec6a189-3084-497a-b4a8-b391531b2503": {
+            "type": "cat",
+            "disabled": true,
+            "settings": {
+              "collection": "women",
+              "collection_title": "",
+              "collection_subtitle": "",
+              "collection_des": "1",
+              "title_cl": "#ffffff",
+              "title_cl_hover": "#222222",
+              "subtitle_cl": "#878787",
+              "count_cl": "#222222",
+              "border_cl": "#e5e5e5",
+              "open_link": "_self",
+              "space_bottom": 20,
+              "space_bottom_mb": 10,
+              "border": false,
+              "item_pd": 0,
+              "item_rd": 0,
+              "img_effect": "zoom",
+              "b_effect": "none",
+              "image_ratio": "rationt",
+              "image_size": "cover",
+              "image_position": "8",
+              "collection_link": "",
+              "col": "4"
+            }
+          },
+          "95da8d7e-67f2-4ebd-b1ad-e83d518cb37e": {
+            "type": "cat",
+            "disabled": true,
+            "settings": {
+              "collection": "frontpage",
+              "collection_title": "",
+              "collection_subtitle": "",
+              "collection_des": "1",
+              "title_cl": "#ffffff",
+              "title_cl_hover": "#222222",
+              "subtitle_cl": "#878787",
+              "count_cl": "#222222",
+              "border_cl": "#e5e5e5",
+              "open_link": "_self",
+              "space_bottom": 20,
+              "space_bottom_mb": 10,
+              "border": false,
+              "item_pd": 0,
+              "item_rd": 0,
+              "img_effect": "none",
+              "b_effect": "none",
+              "image_ratio": "rationt",
+              "image_size": "cover",
+              "image_position": "8",
+              "collection_link": "",
+              "col": "4"
+            }
+          },
+          "5bdb6eec-e820-4415-ac9b-9c6096eb20c1": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 3
+            }
+          },
+          "cc1a7875-8010-421e-b69c-efc19a6043d6": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "PRODUCT LAYOUTS",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "e17e717c-01e0-4704-92bc-92c339ee6148": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "PRODUCT DETAILS",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "27ca598d-2e3f-44fc-a790-64783d37de5e": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "PRODUCT SWATCH",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "bdfaa837-86a3-4159-805a-668060142b0d": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "PRODUCT FEATURES",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "3"
+            }
+          },
+          "5952e385-42a5-4603-9be9-64b76f15ef48": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 4
+            }
+          },
+          "400a038a-cb32-4aae-a66d-7d4cd404ccd6": {
+            "type": "link2",
+            "disabled": true,
+            "settings": {
+              "col": "2",
+              "menu": ""
+            }
+          },
+          "41ee689a-9ef7-46ab-a5a6-5fa4776a9af6": {
+            "type": "pr",
+            "disabled": true,
+            "settings": {
+              "collection": "sale",
+              "product_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "image_ratio": "rationt",
+              "image_size": "cover",
+              "image_position": "8",
+              "content_align": "default",
+              "limit": 6,
+              "col_dk": "4",
+              "space_h_item": "30",
+              "space_v_item": "30",
+              "layout_des": "2",
+              "nav_btn": true,
+              "btn_vi": "always",
+              "btn_owl": "outline",
+              "btn_shape": "round",
+              "btn_cl": "dark",
+              "btn_size": "small",
+              "btn_hidden_mobile": true,
+              "col": "10"
+            }
+          },
+          "758ddd07-8ea5-4c0e-80a1-e7eef279fa5f": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 5
+            }
+          },
+          "5665b9cc-d2a6-42e0-b267-e4b36da8a05e": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "BLOG LAYOUT",
+              "url": "https:\/\/demo-kalles-4-1.myshopify.com\/blogs\/fashion?preview_theme_id=",
+              "open_link": "_self",
+              "menu": "",
+              "col": "4"
+            }
+          },
+          "552902be-02b1-40ca-8475-982bbdb75ed7": {
+            "type": "blogs",
+            "disabled": true,
+            "settings": {
+              "blog": "fashion",
+              "post_des": "1",
+              "show_cate": false,
+              "show_tags": true,
+              "show_cnt": false,
+              "show_au": true,
+              "show_dt": true,
+              "show_cm": true,
+              "show_rm": false,
+              "show_irm": false,
+              "date": "date",
+              "content_align": "t4s-text-center",
+              "limit": 8,
+              "img_effect": "zoom",
+              "b_effect": "none",
+              "image_ratio": "ratio4_3",
+              "image_size": "cover",
+              "image_position": "8",
+              "col_dk": "2",
+              "space_h_item": "30",
+              "space_v_item": "30",
+              "layout_des": "2",
+              "nav_btn": true,
+              "btn_vi": "always",
+              "btn_owl": "outline",
+              "btn_shape": "round",
+              "btn_cl": "dark",
+              "btn_size": "small",
+              "btn_hidden_mobile": true,
+              "col": "8"
+            }
+          }
+        },
+        "block_order": [
+          "583a30c7-369d-4a64-a51d-ca53c1685206",
+          "3abb98a1-837d-46af-b195-f5c43e7c88ee",
+          "2ceac397-4b2b-4740-a477-707dd2680e02",
+          "1f90cea5-04fb-4ef3-822b-5f987845e5c4",
+          "6122e966-0272-4c46-a1a0-051bdc2ae08c",
+          "45fa281e-2be5-4727-bd01-942824713769",
+          "02beea21-3cb9-41ce-a1ab-04ae44b7f47e",
+          "ff494243-e58b-40e9-a2ea-e64ccd58a624",
+          "cec6a189-3084-497a-b4a8-b391531b2503",
+          "95da8d7e-67f2-4ebd-b1ad-e83d518cb37e",
+          "5bdb6eec-e820-4415-ac9b-9c6096eb20c1",
+          "cc1a7875-8010-421e-b69c-efc19a6043d6",
+          "e17e717c-01e0-4704-92bc-92c339ee6148",
+          "27ca598d-2e3f-44fc-a790-64783d37de5e",
+          "bdfaa837-86a3-4159-805a-668060142b0d",
+          "5952e385-42a5-4603-9be9-64b76f15ef48",
+          "400a038a-cb32-4aae-a66d-7d4cd404ccd6",
+          "41ee689a-9ef7-46ab-a5a6-5fa4776a9af6",
+          "758ddd07-8ea5-4c0e-80a1-e7eef279fa5f",
+          "5665b9cc-d2a6-42e0-b267-e4b36da8a05e",
+          "552902be-02b1-40ca-8475-982bbdb75ed7"
+        ],
+        "settings": {
+        }
+      },
+      "mb_nav": {
+        "type": "mb_nav",
+        "blocks": {
+          "mb_nav-5": {
+            "type": "sea",
+            "settings": {
+            }
+          },
+          "mb_nav-4": {
+            "type": "wis",
+            "settings": {
+            }
+          },
+          "mb_nav-6": {
+            "type": "acc",
+            "settings": {
+            }
+          },
+          "mb_nav-7": {
+            "type": "help",
+            "settings": {
+              "title": "Precisa de Ajuda?",
+              "text": "<a href='https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\"' target=\"_blank\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z\"><\/path><\/svg> (21) 98959-0075<\/a>\n<br>\n<a href=\"mailto:contato@atitudeversatil.com.br\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 3 8 L 3 26 L 29 26 L 29 8 Z M 7.3125 10 L 24.6875 10 L 16 15.78125 Z M 5 10.875 L 15.4375 17.84375 L 16 18.1875 L 16.5625 17.84375 L 27 10.875 L 27 24 L 5 24 Z\"><\/path><\/svg>\ncontato@atitudeversatil.com.br<\/a>"
+            }
+          },
+          "menu_BUUBHQ": {
+            "type": "menu",
+            "settings": {
+              "title": "Informações",
+              "url": "",
+              "open_link": "_self",
+              "menu": "informa-es",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "menu_NX67Ae": {
+            "type": "menu",
+            "settings": {
+              "title": "NOSSAS POLÍTICAS",
+              "url": "",
+              "open_link": "_self",
+              "menu": "footer",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "mb_nav-5",
+          "mb_nav-4",
+          "mb_nav-6",
+          "mb_nav-7",
+          "menu_BUUBHQ",
+          "menu_NX67Ae"
+        ],
+        "settings": {
+        }
+      },
+      "mb_cat": {
+        "type": "mb_cat",
+        "blocks": {
+          "06829288-e2cc-4c71-8473-1005287d6230": {
+            "type": "catimg",
+            "settings": {
+              "cat": "",
+              "title": "RASTREIO",
+              "url": "shopify:\/\/pages\/rastrear-pedido",
+              "lb": "Tempo Real",
+              "lb_cl": "#0a775a",
+              "icons_op": "2",
+              "icon": "las la-shipping-fast",
+              "cat1": "",
+              "url1": "",
+              "cat2": "",
+              "url2": "",
+              "cat3": "",
+              "url3": "",
+              "cat4": "",
+              "url4": "",
+              "cat5": "",
+              "url5": "",
+              "cat6": "",
+              "url6": "",
+              "cat7": "",
+              "url7": "",
+              "cat8": "",
+              "url8": "",
+              "cat9": "",
+              "url9": "",
+              "cat10": "",
+              "url10": "",
+              "cat11": "",
+              "url11": "",
+              "cat12": "",
+              "url12": "",
+              "cat13": "",
+              "url13": "",
+              "cat14": "",
+              "url14": "",
+              "cat15": "",
+              "url15": "",
+              "cat16": "",
+              "url16": "",
+              "cat17": "",
+              "url17": "",
+              "cat18": "",
+              "url18": "",
+              "cat19": "",
+              "url19": "",
+              "cat20": "",
+              "url20": "",
+              "cat21": "",
+              "url21": "",
+              "cat22": "",
+              "url22": "",
+              "cat23": "",
+              "url23": "",
+              "cat24": "",
+              "url24": "",
+              "cat25": "",
+              "url25": ""
+            }
+          },
+          "cat_wNmNGT": {
+            "type": "cat",
+            "settings": {
+              "cat": "frontpage",
+              "title": "Panela Elétrica",
+              "url": "",
+              "menu": "coisas-de-casas",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          },
+          "cat_VYWtjx": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Panela Multifuncional",
+              "url": "shopify:\/\/collections\/decoracao",
+              "menu": "decoracao-moderna",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          },
+          "cat_nKQ9bp": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Mata Mosquito Eletrico",
+              "url": "",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          },
+          "cat_MdWMLH": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Dispenser Para Sabonete liquido",
+              "url": "",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          },
+          "cat_fPUdz6": {
+            "type": "cat",
+            "settings": {
+              "cat": "",
+              "title": "Dicas de Organização de Casa",
+              "url": "",
+              "menu": "dicas-para-casa",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          },
+          "cat_GpDRPC": {
+            "type": "cat",
+            "settings": {
+              "cat": "destaques",
+              "title": "Acabaram de Chegar",
+              "url": "",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-chair"
+            }
+          }
+        },
+        "block_order": [
+          "06829288-e2cc-4c71-8473-1005287d6230",
+          "cat_wNmNGT",
+          "cat_VYWtjx",
+          "cat_nKQ9bp",
+          "cat_MdWMLH",
+          "cat_fPUdz6",
+          "cat_GpDRPC"
+        ],
+        "settings": {
+        }
+      },
+      "mini_cart": {
+        "type": "mini_cart",
+        "blocks": {
+          "mini_cart-0": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "mini_cart-3": {
+            "type": "btnc",
+            "settings": {
+              "btn_icon": false,
+              "button_style": "default",
+              "btn_cl": "custom2",
+              "button_effect": "default"
+            }
+          },
+          "mini_cart-4": {
+            "type": "btnck",
+            "settings": {
+              "btn_icon": false,
+              "button_style": "default",
+              "btn_cl": "custom1",
+              "button_effect": "fade"
+            }
+          },
+          "mini_cart-5": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "mini_cart-6": {
+            "type": "btn",
+            "settings": {
+              "title": "Voltar a Loja",
+              "url": "",
+              "btn_icon": false,
+              "button_style": "default",
+              "btn_cl": "primary",
+              "button_effect": "fade"
+            }
+          }
+        },
+        "block_order": [
+          "mini_cart-0",
+          "mini_cart-3",
+          "mini_cart-4",
+          "mini_cart-5",
+          "mini_cart-6"
+        ],
+        "custom_css": [
+          ".t4s-btn-color-custom1 {background-color: #40a2e3;}"
+        ],
+        "settings": {
+          "style": "1",
+          "enable_calc_ship": false,
+          "enable_note": false,
+          "enable_rates": false,
+          "enable_discount": false,
+          "enable_gift_wrap": false,
+          "ship_df_country": "Brasil"
+        }
+      },
+      "main-qv": {
+        "type": "main-qv",
+        "blocks": {
+          "main-qv-0": {
+            "type": "title",
+            "settings": {
+              "txt_tr_pr": "none",
+              "fnt_df_pr": "1",
+              "size_pr": 25,
+              "fw_pr": 600,
+              "lh_pr": 0,
+              "ls_pr": 0,
+              "pr_title_color": "#222222",
+              "pr_title_color_hover": "#222222"
+            }
+          },
+          "main-qv-1": {
+            "type": "price_review",
+            "settings": {
+              "price": "0",
+              "type_sale": "1",
+              "tax_ship": false,
+              "rating": false,
+              "review_liquid": "",
+              "size_price_pr": 22,
+              "fw_price_pr": 400,
+              "price_color": "#222222",
+              "price_sale_color": "#0a775a"
+            }
+          },
+          "main-qv-3": {
+            "type": "form",
+            "settings": {
+              "selector_mode": "circle",
+              "color_mode": "color is-sw-cl__round",
+              "enable_fit_ratio_img": false,
+              "color_size": "medium",
+              "show_qty": true,
+              "enable_wishlist": true,
+              "enable_compare": false,
+              "btn_atc_full": false,
+              "pr_btn_round": 40,
+              "ani": "none",
+              "time": 6,
+              "btn_txt": "3",
+              "btn_icon": false,
+              "button_style": "default",
+              "button_color": "custom1",
+              "button_effect": "fade",
+              "show_dynamic_checkout": false,
+              "btn_txt2": "3",
+              "button_color_payment": "dark",
+              "product_list": [
+
+              ],
+              "show_product_current": true,
+              "qty_val": "0",
+              "advance_label": "Choose style",
+              "advance_pr_list": [
+
+              ]
+            }
+          },
+          "9da5ef82-920a-4c34-a167-6f8e3af9f261": {
+            "type": "order",
+            "disabled": true,
+            "settings": {
+              "hide_pre": false,
+              "icon": "2",
+              "icon_name": "las la-truck",
+              "ani": "none",
+              "txt": "Prazo de entrega entre: [date_start] and [date_end]",
+              "ds": 7,
+              "de": 15,
+              "mode": "2",
+              "cut_day": "SAT,SUN",
+              "frm_day": "t44, DD t46",
+              "time": "16:00:00",
+              "hr": "horas",
+              "min": "minutos"
+            }
+          },
+          "634cb016-3534-4df3-9153-d647bca32d85": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "mess": "<p class=\"text-garantia\" style=\"padding: 10px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-check-circle\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z\"><\/path>\n                                        <path fill-rule=\"evenodd\" d=\"M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z\"><\/path>\n                                    <\/svg>\n                                    30 Dias de Garantia\n                                <\/p>\n<p style=\"padding: 3px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\" class=\"text-troca\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-bootstrap-reboot\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 0 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8zm5.48-.079V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6zm0 3.75V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141z\"><\/path>\n                                    <\/svg>\n                                    7 dias para trocas e devoluções\n                                <\/p>",
+              "size": 17,
+              "source": "1",
+              "al": "start",
+              "wimg": 60,
+              "svg": "american_express,boleto,master,visa,elo,pix",
+              "height": 30
+            }
+          }
+        },
+        "block_order": [
+          "main-qv-0",
+          "main-qv-1",
+          "main-qv-3",
+          "9da5ef82-920a-4c34-a167-6f8e3af9f261",
+          "634cb016-3534-4df3-9153-d647bca32d85"
+        ],
+        "settings": {
+          "demo_pr": "",
+          "image_ratio": "ratioadapt",
+          "image_size": "cover",
+          "image_position": "8",
+          "eff": "fade",
+          "nav_btn": true,
+          "btn_vi": "always",
+          "btn_owl": "outline",
+          "btn_shape": "round",
+          "btn_cl": "dark",
+          "btn_size": "medium",
+          "btn_hidden_mobile": false
+        }
+      },
+      "slider_config": {
+        "type": "slider_config",
+        "blocks": {
+          "ef55a72d-2a3a-4be2-b303-7904b5feef29": {
+            "type": "custom1",
+            "settings": {
+              "btn_color_primary": "#0a775a",
+              "btn_color_second": "#ffffff",
+              "btn_color_primary_hover": "#222222",
+              "btn_color_second_hover": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "ef55a72d-2a3a-4be2-b303-7904b5feef29"
+        ],
+        "settings": {
+          "btn_vi": "hover",
+          "btn_owl": "default",
+          "btn_shape": "none",
+          "btn_size": "small",
+          "dot_owl": "default",
+          "dots_round": true,
+          "dots_space": 10
+        }
+      },
+      "search-hidden": {
+        "type": "search-hidden",
+        "settings": {
+        }
+      },
+      "login-sidebar": {
+        "type": "login-sidebar",
+        "settings": {
+          "content_align": "start",
+          "btn_width": "full",
+          "button_style": "outline",
+          "btns_size": "extra-medium",
+          "btns_cl": "dark",
+          "button_effect": "default"
+        }
+      },
+      "facets": {
+        "type": "facets",
+        "settings": {
+          "style_color_filter": "Color, color, Colour , colour, cor, cores, escolha a cor",
+          "style_tag_filter": ""
+        }
+      },
+      "heading-template": {
+        "type": "heading-template",
+        "blocks": {
+          "heading-template-0": {
+            "type": "1",
+            "settings": {
+              "heading": "",
+              "fontf": "inherit",
+              "text_cl": "#ffffff",
+              "text_fs": 20,
+              "text_lh": 20,
+              "text_fw": 500,
+              "text_ls": 0,
+              "font_italic": false,
+              "font_uppercase": false,
+              "text_shadow": false,
+              "text_mgb": 0,
+              "hidden_mobile": false,
+              "text_fs_mb": 20,
+              "text_lh_mb": 20,
+              "text_ls_mb": 0,
+              "text_mgb_mobile": 0
+            }
+          }
+        },
+        "block_order": [
+          "heading-template-0"
+        ],
+        "settings": {
+          "use_specify_image": false,
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 50,
+          "padding": 10,
+          "paddingmb": 10,
+          "mg_b": 10,
+          "mg_bmb": 10,
+          "content_align": "t4s-text-center",
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "use_cus_css": false,
+          "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+        }
+      },
+      "main-wishlist": {
+        "type": "main-wishlist",
+        "blocks": {
+          "main-wishlist-0": {
+            "type": "layout",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "main-wishlist-0"
+        ],
+        "settings": {
+          "product_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "image_ratio": "ratioadapt",
+          "image_size": "cover",
+          "image_position": "8",
+          "content_align": "default",
+          "limit": 12,
+          "enable_listing": true,
+          "enable_listing_default": false,
+          "col_dk": "4",
+          "col_tb": "2",
+          "col_mb": "2",
+          "space_h_item": "30",
+          "space_v_item": "30",
+          "space_h_item_mb": "10",
+          "space_v_item_mb": "10",
+          "layout_des": "1",
+          "use_pagination": "default",
+          "enable_bar_lm": true,
+          "btn_icon": false,
+          "button_style": "default",
+          "btns_size": "large",
+          "btns_cl": "dark",
+          "button_effect": "default",
+          "btn_pos": "t4s-text-center",
+          "layout": "t4s-container-wrap",
+          "cl_bg": "",
+          "cl_bg_gradient": "",
+          "mg": ",,50px,",
+          "pd": "",
+          "mg_mb": ",,30px,",
+          "pd_mb": ""
+        }
+      },
+      "main-compare": {
+        "type": "main-compare",
+        "blocks": {
+          "main-compare-0": {
+            "type": "basic",
+            "settings": {
+            }
+          },
+          "main-compare-1": {
+            "type": "availability",
+            "settings": {
+              "title": "Availability"
+            }
+          },
+          "main-compare-2": {
+            "type": "vendor",
+            "settings": {
+              "title": "Vendor"
+            }
+          },
+          "main-compare-3": {
+            "type": "variants",
+            "settings": {
+              "title": "Color"
+            }
+          },
+          "main-compare-4": {
+            "type": "btn",
+            "settings": {
+              "title": "RETURN TO SHOP",
+              "url": "",
+              "open_link": "_self",
+              "btn_icon": false,
+              "button_style": "default",
+              "btns_size": "medium",
+              "btns_cl": "primary",
+              "button_effect": "default"
+            }
+          }
+        },
+        "block_order": [
+          "main-compare-0",
+          "main-compare-1",
+          "main-compare-2",
+          "main-compare-3",
+          "main-compare-4"
+        ],
+        "settings": {
+          "cl_price": "#95bf46",
+          "cl_price_sale": "#ec0101",
+          "cl_in": "#95bf46",
+          "cl_out": "#e1b878",
+          "image_ratio": "rationt",
+          "image_size": "cover",
+          "image_position": "8",
+          "content_align": "center",
+          "layout": "t4s-container-wrap",
+          "cl_bg": "",
+          "cl_bg_gradient": "",
+          "mg": ",,50px,",
+          "pd": "",
+          "mg_mb": ",,30px,",
+          "pd_mb": ""
+        }
+      },
+      "header-vertical": {
+        "type": "header-vertical",
+        "blocks": {
+          "header-vertical-0": {
+            "type": "mega",
+            "settings": {
+              "title": "Home",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-vertical-1": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-vertical-2": {
+            "type": "base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "0dec03c0-f79c-4d2b-946e-0a9c5d0a0d9a": {
+            "type": "drop",
+            "settings": {
+              "title": "Dropdown",
+              "url": "",
+              "open_link": "_self",
+              "menu": "main-menu",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos_sub": "right-start"
+            }
+          }
+        },
+        "block_order": [
+          "header-vertical-0",
+          "header-vertical-1",
+          "header-vertical-2",
+          "0dec03c0-f79c-4d2b-946e-0a9c5d0a0d9a"
+        ],
+        "settings": {
+          "show_currency": true,
+          "show_language": true,
+          "arrow": true,
+          "bgnav": "#ffffff",
+          "opnav": 100,
+          "clnav": "#222222",
+          "clnav_hover": "#56cfe1",
+          "h_icon": "kalles",
+          "hover_icon": "2",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "1",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "source": "2",
+          "txt": "<p>Welcome to our store!<\/p>",
+          "h_navmb": 62,
+          "sticky_header": true,
+          "scroll_header": true,
+          "bgnavst": "#ffffff",
+          "opnavst": 100,
+          "clnavst": "#222222",
+          "clnavst_hover": "#56cfe1",
+          "fm_nav": "1",
+          "fs_nav": 14,
+          "fw_nav": 500,
+          "ls_nav": 0.2
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "blocks": {
+          "fb7e1f62-7742-4049-b98d-595487170484": {
+            "type": "cookie",
+            "disabled": true,
+            "settings": {
+              "text": "Cookies: Utilizamos cookies para personalizar anúncios e melhorar a sua experiência no site. Ao continuar navegando, você concordam com a nossa Política de segurança e privacidade!",
+              "accept": "Tudo Certo",
+              "decline": "",
+              "more": "",
+              "links": "",
+              "cl_btn": "#222222",
+              "cl_btn_hover": "#0a775a"
+            }
+          }
+        },
+        "block_order": [
+          "fb7e1f62-7742-4049-b98d-595487170484"
+        ],
+        "settings": {
+        }
+      },
+      "t4s_custom_color": {
+        "type": "t4s_custom_color",
+        "settings": {
+        }
+      },
+      "main-qs": {
+        "type": "main-qs",
+        "blocks": {
+          "main-qs-0": {
+            "type": "title",
+            "settings": {
+              "txt_tr_pr": "none",
+              "fnt_df_pr": "1",
+              "size_pr": 24,
+              "fw_pr": 600,
+              "lh_pr": 0,
+              "ls_pr": 0,
+              "pr_title_color": "#222222",
+              "pr_title_color_hover": "#222222"
+            }
+          },
+          "main-qs-1": {
+            "type": "price",
+            "settings": {
+              "price": "1",
+              "type_sale": "2",
+              "size_price_pr": 22,
+              "fw_price_pr": 400,
+              "price_color": "#222222",
+              "price_sale_color": "#0a775a"
+            }
+          },
+          "main-qs-2": {
+            "type": "form",
+            "settings": {
+              "selector_mode": "block",
+              "color_mode": "variant_image",
+              "enable_fit_ratio_img": true,
+              "color_size": "large",
+              "show_qty": true,
+              "enable_wishlist": true,
+              "enable_compare": true,
+              "pr_btn_round": 40,
+              "ani": "t4s-ani-shake",
+              "time": 3,
+              "btn_txt": "3",
+              "btn_icon": false,
+              "button_style": "default",
+              "button_color": "custom1",
+              "button_effect": "sweep-to-top",
+              "show_dynamic_checkout": false,
+              "btn_txt2": "3",
+              "button_color_payment": "dark"
+            }
+          }
+        },
+        "block_order": [
+          "main-qs-0",
+          "main-qs-1",
+          "main-qs-2"
+        ],
+        "settings": {
+          "demo_pr": "bermuda-cargo-militar-camuflada-masculina"
+        }
+      },
+      "facets_tags": {
+        "type": "facets_tags",
+        "blocks": {
+          "14770600-c9ef-4dc1-afbb-0efa120a1bd4": {
+            "type": "color",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Color",
+              "arra_enter": "Red,White,Brown,Blue, Black, Green, Grey, Sliver,Pink",
+              "use_auto_filter_tag": false,
+              "key": "Color"
+            }
+          }
+        },
+        "block_order": [
+          "14770600-c9ef-4dc1-afbb-0efa120a1bd4"
+        ],
+        "settings": {
+        }
+      },
+      "header-sidebar": {
+        "type": "header-sidebar",
+        "settings": {
+          "layout": "menu_left",
+          "full_header": true,
+          "height": 62,
+          "frm_sea_mw": 600,
+          "bgnav": "#ffffff",
+          "opnav": 100,
+          "clnav": "#222222",
+          "clnav_hover": "#56cfe1",
+          "clsea": "#56cfe1",
+          "h_icon": "kalles",
+          "hover_icon": "2",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "1",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "sticky_header": true,
+          "scroll_header": true,
+          "bgnavst": "#ffffff",
+          "opnavst": 100,
+          "clnavst": "#222222",
+          "clnavst_hover": "#56cfe1",
+          "clseast": "#56cfe1",
+          "transparent_header": false,
+          "space_transparent_header": false,
+          "bgnavtr": "#000000",
+          "opnavtr": 40,
+          "clnavtr": "#ffffff",
+          "clnavtr_hover": "#ffffff",
+          "clseatr": "#56cfe1",
+          "source": "2",
+          "txt": "<p>Welcome to our store!<\/p>"
+        }
+      },
+      "header-categories-menu": {
+        "type": "header-categories-menu",
+        "blocks": {
+          "header-categories-menu-0": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-menu-1": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-menu-2": {
+            "type": "base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header-categories-menu-0",
+          "header-categories-menu-1",
+          "header-categories-menu-2"
+        ],
+        "settings": {
+          "full_header": false,
+          "height": 90,
+          "frm_sea_mw": 600,
+          "height2": 50,
+          "arrow": false,
+          "border": false,
+          "border_cate": false,
+          "header_design": "1",
+          "align": "start",
+          "hover": "hover_sideup",
+          "h_navmb": 62,
+          "bgnav": "#ffffff",
+          "opnav": 100,
+          "clnav": "#222222",
+          "clnav_hover": "#56cfe1",
+          "bgsea": "#fafafa",
+          "clsea": "#56cfe1",
+          "bgnav2": "#56cfe1",
+          "clnav2": "#ffffff",
+          "bgcategory": "#007e91",
+          "h_icon": "kalles",
+          "hover_icon": "2",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "1",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "sticky_header": true,
+          "scroll_header": true,
+          "bgnavst": "#ffffff",
+          "opnavst": 100,
+          "clnavst": "#222222",
+          "clnavst_hover": "#56cfe1",
+          "bgseavst": "#fafafa",
+          "clseast": "#56cfe1",
+          "transparent_header": false,
+          "space_transparent_header": false,
+          "bgnavtr": "#000000",
+          "opnavtr": 40,
+          "clnavtr": "#ffffff",
+          "clnavtr_hover": "#ffffff",
+          "bgseatr": "#fafafa",
+          "clseatr": "#56cfe1",
+          "fm_nav": "1",
+          "fs_nav": 14,
+          "fw_nav": 400,
+          "ls_nav": 0,
+          "txt_cat": "SHOP BY CATEGORY",
+          "text": "<i class=\"las la-phone fs__14\"><\/i> +01 23456789 <i class=\"las la-envelope fs__14 ml__15\"><\/i> <a class=\"cg\" href=\"mailto:kalles@domain.com\">kalles@domain.com<\/a>",
+          "shop_cat": true
+        }
+      },
+      "header-categories": {
+        "type": "header-categories",
+        "blocks": {
+          "header-categories-0": {
+            "type": "lv0_mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-1": {
+            "type": "lv0_mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-2": {
+            "type": "lv0_base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header-categories-0",
+          "header-categories-1",
+          "header-categories-2"
+        ],
+        "settings": {
+          "arrow": true
+        }
+      },
+      "header-bottom": {
+        "type": "header-bottom",
+        "blocks": {
+          "header-bottom-0": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "enable_packery": true,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-bottom-1": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "enable_packery": true,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-bottom-2": {
+            "type": "base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header-bottom-0",
+          "header-bottom-1",
+          "header-bottom-2"
+        ],
+        "settings": {
+          "full_header": false,
+          "height": 90,
+          "height2": 50,
+          "arrow": false,
+          "border": true,
+          "align": "center",
+          "hover": "hover_sideup",
+          "h_navmb": 62,
+          "bgnav": "#ffffff",
+          "opnav": 100,
+          "clnav": "#222222",
+          "clnav_hover": "#56cfe1",
+          "h_icon": "kalles",
+          "hover_icon": "2",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "1",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "sticky_header": true,
+          "scroll_header": true,
+          "bgnavst": "#ffffff",
+          "opnavst": 100,
+          "clnavst": "#222222",
+          "clnavst_hover": "#56cfe1",
+          "transparent_header": false,
+          "space_transparent_header": false,
+          "bgnavtr": "#000000",
+          "opnavtr": 40,
+          "clnavtr": "#ffffff",
+          "clnavtr_hover": "#ffffff",
+          "source": "2",
+          "txt": "<p>Welcome to our store!<\/p>",
+          "fm_nav": "1",
+          "fs_nav": 14,
+          "fw_nav": 400,
+          "ls_nav": 0
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "14327677521557774844": {
+        "type": "shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".t4s-product-price {color: #79ac78;}"
+    ]
+  }
+}
