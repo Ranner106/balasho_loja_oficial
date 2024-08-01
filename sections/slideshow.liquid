@@ -158,7 +158,7 @@
                                             {%- endif -%}
                                         {%- when "countdown" -%}
                                             {%- if bk_stts.date != blank -%}
-                                                {%- if bk_stts.animation !='none' -%}{%- assign use_animation = true -%} {%- endif -%}
+                                                {%- if bk_stts.animation !='none' -%}{%- assign use_animation = true -%} {%- endif -%}!!
                                                 {%- assign countdown = true -%}
                                                 <div class="t4s-bl-item t4s-countdown sepr_coun_dt_wrap t4s-countdown-des-{{bk_stts.cdt_des}} t4s-countdown-size-{{bk_stts.cdt_size}} t4s-animation-{{bk_stts.animation}} t4s-hidden-mobile-{{bk_stts.hidden_mobile}}" id="b_{{block.id}}" {%- render 'bk_cus_style',type:'countdown',bk_stts:bk_stts,ani_delay:ani_delay -%}>
                                                     <div class="time" data-countdown-t4s data-date='{{bk_stts.date}}' data-keyid='#countdown-{{sid}}'></div>
