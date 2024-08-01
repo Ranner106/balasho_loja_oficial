@@ -136,7 +136,7 @@
         "height_mb": 250,
         "eff": "slide",
         "loop": true,
-        "au_time": 2.5,
+        "au_time": 5,
         "au_hover": true,
         "nav_btn": false,
         "btn_vi": "hover",
