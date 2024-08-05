@@ -131,29 +131,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {%- render "ecom_footer"-%}
 
   <script>
-    
     document.addEventListener("DOMContentLoaded", function() {
-    const headerContainer = document.querySelector("header .t4s-container");
-
-    if (headerContainer) {
+      // Código para o cabeçalho
+      const headerContainer = document.querySelector("header .t4s-container");
+  
+      if (headerContainer) {
         if (window.location.pathname === '/') {
-            // Página inicial
-            document.addEventListener("scroll", function() {
-                if (window.scrollY > 0) {
-                    headerContainer.classList.add("scrolled");
-                } else {
-                    headerContainer.classList.remove("scrolled");
-                }
-            });
+          // Página inicial
+          document.addEventListener("scroll", function() {
+            if (window.scrollY > 0) {
+              headerContainer.classList.add("scrolled");
+            } else {
+              headerContainer.classList.remove("scrolled");
+            }
+          });
         } else {
-            // Outras páginas
-            headerContainer.classList.add("initial");
+          // Outras páginas
+          headerContainer.classList.add("initial");
         }
-    }
-});
-
-
-</script>
+      }
+  
+      // Código para animação de entrada das seções
+      const sections = document.querySelectorAll('.t4s-section-inner');
+  
+      const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('in-view');
+          } else {
+            entry.target.classList.remove('in-view');
+          }
+        });
+      }, { threshold: 0.1 });
+  
+      sections.forEach(section => {
+        observer.observe(section);
+      });
+    });
+  </script>
+  
 
 
 <link rel="stylesheet" href="{{ 'application.css' | asset_url }}" />

@@ -67,7 +67,7 @@
   endif
   
 -%} 
-<div class="t4s-section-inner t4s_nt_se_{{sid}} t4s_se_{{sid}} {{stt_layout}}{%- if stt_image_bg != blank and stt_layout != 't4s-se-container' -%} t4s-has-imgbg lazyloadt4s{%- endif -%}" {%- if stt_image_bg != blank and stt_layout != 't4s-se-container' -%} data-bgset="{{ stt_image_bg | image_url: width: 1 }}" data-sizes="auto"  data-optimumx="1.5"{%- endif -%} {% render 'section_style',se_stts:se_stts %}>
+<div class="t4s-section-inner t4s_nt_se_{{sid}} t4s_se_{{sid}} {{stt_layout}}{%- if stt_image_bg != blank and stt_layout != 't4s-se-container' -%} t4s-has-imgbg lazyloadt4s{%- endif -%} transition duration-500 ease-in-out transform hover:scale-105 hover:shadow-lg" {%- if stt_image_bg != blank and stt_layout != 't4s-se-container' -%} data-bgset="{{ stt_image_bg | image_url: width: 1 }}" data-sizes="auto"  data-optimumx="1.5"{%- endif -%} {% render 'section_style',se_stts:se_stts %}>
     
     {{- html_layout[0] -}}
     {%- if stt_layout == 't4s-se-container' -%}<div class="t4s-container-inner{% if stt_image_bg != blank %} t4s-has-imgbg lazyloadt4s{% endif %}" {%- if stt_image_bg != blank -%} data-bgset="{{ stt_image_bg | image_url: width: 1 }}" data-sizes="auto"  data-optimumx="1.5"{%- endif -%}>{%- endif -%}
@@ -88,6 +88,23 @@
       {%- endif -%}
     {{- html_layout[1] -}}
   </div>
+
+  <style>
+  .t4s-section-inner {
+    opacity: 0;
+    transform: translateY(30px) scale(0.95); /* Distância e escala */
+    filter: blur(4px); /* Efeito de desfoque */
+    transition: opacity 0.8s ease-out, transform 0.6s ease-out, filter 0.8s ease-out; /* Transições mais longas e suaves */
+  }
+
+  .t4s-section-inner.in-view {
+    opacity: 1;
+    transform: translateY(0) scale(1); /* Retorna à posição original e escala */
+    filter: blur(0); /* Remove o desfoque */
+  }
+</style>
+
+
 
 {%- schema -%}
   {
