@@ -28,7 +28,7 @@
   {%- if title != blank -%}
     <div class="t4s-cate-wrapper">
         <a class="t4s-cat-title" href="{{ collection_link }}" target="{{open_link}}">
-          <span class="t4s-text relative z-10 text-white bg-black bg-opacity-50 p-2 rounded-md shadow-lg"><span class="relative z-20 text-lg md:text-xl lg:text-3xl font-semibold">{{ title }}</span></span> {% if collection_des == "12" %} <span class="t4s-count">{{collection.all_products_count | default:0}}</span> {% endif %}
+          <span class="t4s-text relative z-10 text-white bg-black bg-opacity-50 p-2 rounded-md shadow-lg"><span class="relative z-20 text-xl md:text-2xl lg:text-3xl font-semibold">{{ title }}</span></span> {% if collection_des == "12" %} <span class="t4s-count">{{collection.all_products_count | default:0}}</span> {% endif %}
         </a>
       {%- if subtitle != blank -%}
         <a class="t4s-cat-subtitle" href="{{ collection_link }}" target="{{open_link}}">
