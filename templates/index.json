@@ -286,10 +286,10 @@
       ],
       "settings": {
         "design_heading": "1",
-        "heading_align": "t4s-text-center",
+        "heading_align": "t4s-text-start",
         "top_heading": "Os Bestsellers da Nossa Loja que Transformam Sua Cozinha",
         "icon_heading": "",
-        "top_subheading": "",
+        "top_subheading": "FRETE GRÁTIS para todo o Brasil",
         "tophead_mb": 30,
         "collection": "destaques",
         "product_des": "3",
