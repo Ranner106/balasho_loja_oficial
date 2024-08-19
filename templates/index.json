@@ -212,6 +212,7 @@
         "collection_item_hzkghK",
         "collection_item_LxYbBF"
       ],
+      "disabled": true,
       "custom_css": [
         ".t4s-section h3 {display: none;}",
         ".t4s-cat-title .t4s-text {font-family: \"Playfair Display\", serif; font-weight: 700; \/* Peso da fonte para negrito *\/ display: block; \/* Garante que o span ocupe a largura completa *\/ text-align: center; \/* Centraliza o texto *\/}"
