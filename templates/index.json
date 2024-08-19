@@ -282,7 +282,8 @@
     "9050a16c-35ed-4caa-b05d-0afedc826090": {
       "type": "featured-collection",
       "custom_css": [
-        ".t4s-product-price {color: #618264; font-weight: bold;}"
+        ".t4s-product-price {color: #618264; font-weight: bold;}",
+        ".t4s-top-heading {margin-top: 70px;}"
       ],
       "settings": {
         "design_heading": "1",
