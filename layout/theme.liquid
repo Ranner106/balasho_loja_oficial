@@ -167,8 +167,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       sections.forEach(section => {
         observer.observe(section);
       });
+  
+      // Código para a t4s-flicky-slider
+      const flickyObserver = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('opacity-100', 'scale-100');
+            entry.target.classList.remove('opacity-0', 'scale-90');
+          } else {
+            entry.target.classList.add('opacity-0', 'scale-90');
+            entry.target.classList.remove('opacity-100', 'scale-100');
+          }
+        });
+      }, { threshold: 0.1 });
+  
+      const flickyTargets = document.querySelectorAll('.t4s-flicky-slider');
+      flickyTargets.forEach(target => {
+        flickyObserver.observe(target);
+      });
     });
   </script>
+  
   
 
 
