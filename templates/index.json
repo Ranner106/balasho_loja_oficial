@@ -970,8 +970,8 @@
       "type": "blog-post",
       "settings": {
         "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "Blog post",
+        "heading_align": "t4s-text-start",
+        "top_heading": "Blog Balashov",
         "icon_heading": "las la-gem",
         "top_subheading": "",
         "tophead_mb": 30,
