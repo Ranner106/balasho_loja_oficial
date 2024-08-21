@@ -757,13 +757,12 @@
         "collection_item_LxYbBF"
       ],
       "custom_css": [
-        ".t4s-section h3 {display: none;}",
         ".t4s-cat-title .t4s-text {font-family: \"Playfair Display\", serif; font-weight: 700; \/* Peso da fonte para negrito *\/ display: block; \/* Garante que o span ocupe a largura completa *\/ text-align: center; \/* Centraliza o texto *\/}"
       ],
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
-        "top_heading": "ColeçõesEscolhemos as Melhores Marcas para Garantir a Qualidade que Você Merece",
+        "top_heading": "Escolhemos as Melhores Marcas para Garantir a Qualidade que Você Merece",
         "icon_heading": "las la-gem",
         "top_subheading": "",
         "tophead_mb": 30,
