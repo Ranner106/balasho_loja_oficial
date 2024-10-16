@@ -289,7 +289,7 @@
             "type": "bl_col",
             "settings": {
               "col_heading": "CATEGORIAS",
-              "menu": "categorias",
+              "menu": "top-categorias",
               "menu_style": "1",
               "col_dk": "3",
               "col_tb": "6",
