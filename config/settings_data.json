@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "purchase_code": "Nameless Hero",
@@ -19,15 +19,15 @@
     "falling_snow": false,
     "platform_email": "1",
     "checkbox_mail": false,
-    "timezone": "America\/Sao_Paulo",
+    "timezone": "America/Sao_Paulo",
     "header_design": "inline",
-    "logo": "shopify:\/\/shop_images\/logo_1.png",
+    "logo": "shopify://shop_images/logo_1.png",
     "logo_width": 230,
-    "logos": "shopify:\/\/shop_images\/kalles.png",
+    "logos": "shopify://shop_images/kalles.png",
     "logos_width": 300,
-    "logo_mb": "shopify:\/\/shop_images\/jbn.jpg",
+    "logo_mb": "shopify://shop_images/jbn.jpg",
     "logo_mb_width": 350,
-    "logo_tr": "shopify:\/\/shop_images\/header-logo-01.png",
+    "logo_tr": "shopify://shop_images/header-logo-01.png",
     "logo_tr_width": 95,
     "mobile_nav_type": "4",
     "only_icon": false,
@@ -45,7 +45,7 @@
     "btn_bg": "#1c1c1c",
     "cl_lazyload": "#0a775a",
     "use_cus_lz": true,
-    "cus_lz": "shopify:\/\/shop_images\/polihousifaviconovo.png",
+    "cus_lz": "shopify://shop_images/polihousifaviconovo.png",
     "bg_tooltip": "#1c1c1c",
     "sw_primary": "#050505",
     "sw_secondary": "#4e4e4e",
@@ -116,26 +116,26 @@
     "round_currency": false,
     "notify_currency": false,
     "hover_currency": false,
-    "share_image": "shopify:\/\/shop_images\/Logo_Atitude_versatil_204X44px-PhotoRoom.png",
+    "share_image": "shopify://shop_images/Logo_Atitude_versatil_204X44px-PhotoRoom.png",
     "share_twitter": false,
     "share_tumblr": false,
     "share_email": true,
     "share_telegram": false,
     "share_whatsapp": true,
-    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=61555969997142",
+    "social_facebook_link": "https://www.facebook.com/profile.php?id=61555969997142",
     "social_twitter_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/atitudeversatil4",
+    "social_instagram_link": "https://www.instagram.com/atitudeversatil4",
     "social_dribbble_link": "",
     "social_linkedin_link": "",
-    "social_pinterest_link": "https:\/\/br.pinterest.com\/atitudeversatil\/",
+    "social_pinterest_link": "https://br.pinterest.com/atitudeversatil/",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCXBZXSbe4BSSCFHeMMn4UtA",
+    "social_youtube_link": "https://www.youtube.com/channel/UCXBZXSbe4BSSCFHeMMn4UtA",
     "social_vimeo_link": "",
     "social_behance_link": "",
     "social_soundcloud_link": "",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@atitude.versatil",
-    "favicon": "shopify:\/\/shop_images\/Favicon_50x50px_98ab0526-f60a-4a72-9bc1-e30ee8433b2b.png",
+    "social_tiktok_link": "https://www.tiktok.com/@atitude.versatil",
+    "favicon": "shopify://shop_images/Favicon_50x50px_98ab0526-f60a-4a72-9bc1-e30ee8433b2b.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#f2f2f2",
@@ -167,7 +167,7 @@
           "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
             "type": "copyR",
             "settings": {
-              "text": "Copyright © [year] <span class=\"t4s-cp\">atitudeversatil.com.br<\/span> É vedada qualquer reprodução, total ou parcial, nos termos da Lei nº 9.610\/98 . Todos os direitos reservados.",
+              "text": "Copyright © [year] <span class=\"t4s-cp\">atitudeversatil.com.br</span> É vedada qualquer reprodução, total ou parcial, nos termos da Lei nº 9.610/98 . Todos os direitos reservados.",
               "mgb": 0,
               "mgb_mb": 0
             }
@@ -175,7 +175,7 @@
           "9ad9cb9a-eb43-4b01-9970-291132a422e3": {
             "type": "copyR",
             "settings": {
-              "text": "Rua Arminda, S\/N - Coelho da Rocha São João de Meriti - RJ",
+              "text": "Rua Arminda, S/N - Coelho da Rocha São João de Meriti - RJ",
               "mgb": 0,
               "mgb_mb": 0
             }
@@ -183,7 +183,7 @@
           "031775d8-955b-41e8-86d5-3fc1954babd9": {
             "type": "copyR",
             "settings": {
-              "text": "Atitude Versátil CNPJ: 33.935.530\/0001-80",
+              "text": "Atitude Versátil CNPJ: 33.935.530/0001-80",
               "mgb": 0,
               "mgb_mb": 0
             }
@@ -336,7 +336,7 @@
           "footer-2": {
             "type": "html",
             "settings": {
-              "html_content": "<p style=\"display:flex;\"><svg style=\"width: 24px;height: 02px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\">\n\n<\/svg><\/p><p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 28.244 7.47 h -25.572 v 17.06 h 26.656 v -17.06 h -1.084 Z M 27.177 8.536 l -10.298 10.298 c -0.47 0.47 -1.289 0.47 -1.759 0 l -10.3 -10.298 h 22.356 Z M 3.738 8.961 l 6.923 6.922 l -6.923 6.923 v -13.846 Z M 4.589 23.464 l 6.827 -6.826 l 2.951 2.95 c 0.436 0.436 1.016 0.677 1.633 0.677 s 1.197 -0.241 1.633 -0.677 l 2.951 -2.951 l 6.826 6.826 h -22.822 Z M 28.262 22.807 l -6.923 -6.924 l 6.923 -6.924 v 13.848 Z\"><\/path><\/svg> <span>contato@atitudeversatil.com.br<\/span><\/p> \n<p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 23.407 30.394 c -2.431 0 -8.341 -3.109 -13.303 -9.783 c -4.641 -6.242 -6.898 -10.751 -6.898 -13.785 c 0 -2.389 1.65 -3.529 2.536 -4.142 l 0.219 -0.153 c 0.979 -0.7 2.502 -0.927 3.086 -0.927 c 1.024 0 1.455 0.599 1.716 1.121 c 0.222 0.442 2.061 4.39 2.247 4.881 c 0.286 0.755 0.192 1.855 -0.692 2.488 l -0.155 0.108 c -0.439 0.304 -1.255 0.869 -1.368 1.557 c -0.055 0.334 0.057 0.684 0.342 1.068 c 1.423 1.918 5.968 7.55 6.787 8.314 c 0.642 0.6 1.455 0.685 2.009 0.218 c 0.573 -0.483 0.828 -0.768 0.83 -0.772 l 0.059 -0.057 c 0.048 -0.041 0.496 -0.396 1.228 -0.396 c 0.528 0 1.065 0.182 1.596 0.541 c 1.378 0.931 4.487 3.011 4.487 3.011 l 0.05 0.038 c 0.398 0.341 0.973 1.323 0.302 2.601 c -0.695 1.327 -2.85 4.066 -5.079 4.066 Z M 9.046 2.672 c -0.505 0 -1.746 0.213 -2.466 0.728 l -0.232 0.162 c -0.827 0.572 -2.076 1.435 -2.076 3.265 c 0 2.797 2.188 7.098 6.687 13.149 c 4.914 6.609 10.532 9.353 12.447 9.353 c 1.629 0 3.497 -2.276 4.135 -3.494 c 0.392 -0.748 0.071 -1.17 -0.04 -1.284 c -0.36 -0.241 -3.164 -2.117 -4.453 -2.988 c -0.351 -0.238 -0.688 -0.358 -0.999 -0.358 c -0.283 0 -0.469 0.1 -0.532 0.14 c -0.104 0.111 -0.39 0.405 -0.899 0.833 c -0.951 0.801 -2.398 0.704 -3.424 -0.254 c -0.923 -0.862 -5.585 -6.666 -6.916 -8.459 c -0.46 -0.62 -0.641 -1.252 -0.538 -1.877 c 0.187 -1.133 1.245 -1.866 1.813 -2.26 l 0.142 -0.099 c 0.508 -0.363 0.4 -1.02 0.316 -1.242 c -0.157 -0.414 -1.973 -4.322 -2.203 -4.781 c -0.188 -0.376 -0.336 -0.533 -0.764 -0.533 Z\"><\/path><\/svg><span> <a href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\">(21) 98959-0075<\/a><\/span><\/p>",
+              "html_content": "<p style=\"display:flex;\"><svg style=\"width: 24px;height: 02px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\">\n\n</svg></p><p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 28.244 7.47 h -25.572 v 17.06 h 26.656 v -17.06 h -1.084 Z M 27.177 8.536 l -10.298 10.298 c -0.47 0.47 -1.289 0.47 -1.759 0 l -10.3 -10.298 h 22.356 Z M 3.738 8.961 l 6.923 6.922 l -6.923 6.923 v -13.846 Z M 4.589 23.464 l 6.827 -6.826 l 2.951 2.95 c 0.436 0.436 1.016 0.677 1.633 0.677 s 1.197 -0.241 1.633 -0.677 l 2.951 -2.951 l 6.826 6.826 h -22.822 Z M 28.262 22.807 l -6.923 -6.924 l 6.923 -6.924 v 13.848 Z\"></path></svg> <span>contato@atitudeversatil.com.br</span></p> \n<p style=\"display:flex;\"><svg style=\"width: 24px;height: 24px;vertical-align: middle;margin-right: 5px;\" viewbox=\"0 0 32 32\" width=\"32\" height=\"32\"><path fill=\"currentColor\" d=\"M 23.407 30.394 c -2.431 0 -8.341 -3.109 -13.303 -9.783 c -4.641 -6.242 -6.898 -10.751 -6.898 -13.785 c 0 -2.389 1.65 -3.529 2.536 -4.142 l 0.219 -0.153 c 0.979 -0.7 2.502 -0.927 3.086 -0.927 c 1.024 0 1.455 0.599 1.716 1.121 c 0.222 0.442 2.061 4.39 2.247 4.881 c 0.286 0.755 0.192 1.855 -0.692 2.488 l -0.155 0.108 c -0.439 0.304 -1.255 0.869 -1.368 1.557 c -0.055 0.334 0.057 0.684 0.342 1.068 c 1.423 1.918 5.968 7.55 6.787 8.314 c 0.642 0.6 1.455 0.685 2.009 0.218 c 0.573 -0.483 0.828 -0.768 0.83 -0.772 l 0.059 -0.057 c 0.048 -0.041 0.496 -0.396 1.228 -0.396 c 0.528 0 1.065 0.182 1.596 0.541 c 1.378 0.931 4.487 3.011 4.487 3.011 l 0.05 0.038 c 0.398 0.341 0.973 1.323 0.302 2.601 c -0.695 1.327 -2.85 4.066 -5.079 4.066 Z M 9.046 2.672 c -0.505 0 -1.746 0.213 -2.466 0.728 l -0.232 0.162 c -0.827 0.572 -2.076 1.435 -2.076 3.265 c 0 2.797 2.188 7.098 6.687 13.149 c 4.914 6.609 10.532 9.353 12.447 9.353 c 1.629 0 3.497 -2.276 4.135 -3.494 c 0.392 -0.748 0.071 -1.17 -0.04 -1.284 c -0.36 -0.241 -3.164 -2.117 -4.453 -2.988 c -0.351 -0.238 -0.688 -0.358 -0.999 -0.358 c -0.283 0 -0.469 0.1 -0.532 0.14 c -0.104 0.111 -0.39 0.405 -0.899 0.833 c -0.951 0.801 -2.398 0.704 -3.424 -0.254 c -0.923 -0.862 -5.585 -6.666 -6.916 -8.459 c -0.46 -0.62 -0.641 -1.252 -0.538 -1.877 c 0.187 -1.133 1.245 -1.866 1.813 -2.26 l 0.142 -0.099 c 0.508 -0.363 0.4 -1.02 0.316 -1.242 c -0.157 -0.414 -1.973 -4.322 -2.203 -4.781 c -0.188 -0.376 -0.336 -0.533 -0.764 -0.533 Z\"></path></svg><span> <a href=\"https://api.whatsapp.com/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\">(21) 98959-0075</a></span></p>",
               "hidden_mobile": false
             }
           },
@@ -433,7 +433,7 @@
           "f696bb69-4bd5-4c7d-ba3f-d1816691c173": {
             "type": "image",
             "settings": {
-              "link_img": "https:\/\/www.sslshopper.com\/ssl-checker.html#hostname=polihousi.com",
+              "link_img": "https://www.sslshopper.com/ssl-checker.html#hostname=polihousi.com",
               "img_width": 110,
               "img_width_mb": 80,
               "mgb": 0,
@@ -459,7 +459,7 @@
           "152a5889-f1db-48a0-8678-e0207518546b": {
             "type": "image",
             "settings": {
-              "link_img": "https:\/\/www.reclameaqui.com.br\/empresa\/polihousi\/",
+              "link_img": "https://www.reclameaqui.com.br/empresa/polihousi/",
               "img_width": 110,
               "img_width_mb": 80,
               "mgb": 0,
@@ -485,7 +485,7 @@
           "960dce10-0ce1-451b-ae91-c7122e374817": {
             "type": "image",
             "settings": {
-              "link_img": "https:\/\/transparencyreport.google.com\/safe-browsing\/search?url=polihousi.com&hl=pt_BR",
+              "link_img": "https://transparencyreport.google.com/safe-browsing/search?url=polihousi.com&hl=pt_BR",
               "img_width": 110,
               "img_width_mb": 80,
               "mgb": 0,
@@ -551,8 +551,8 @@
           "announcement-bar-1": {
             "type": "announcement",
             "settings": {
-              "link": "https:\/\/visaobrasil.com\/account\/login",
-              "content": "<p>Sua primeira vez? Cadastre-se e aproveite o desconto de 10% OFF. <strong>Cupom: VBLORD <\/strong>[icon_arrow]<\/p>",
+              "link": "https://visaobrasil.com/account/login",
+              "content": "<p>Sua primeira vez? Cadastre-se e aproveite o desconto de 10% OFF. <strong>Cupom: VBLORD </strong>[icon_arrow]</p>",
               "countdown": "",
               "txt_day": "",
               "dayx": 0
@@ -562,7 +562,7 @@
             "type": "announcement",
             "settings": {
               "link": "",
-              "content": "<p>Semana de <strong>FRETE GRÁTIS<\/strong>, aproveite! | Parcele em  até 12x no cartão<\/p>",
+              "content": "<p>Semana de <strong>FRETE GRÁTIS</strong>, aproveite! | Parcele em  até 12x no cartão</p>",
               "countdown": "",
               "txt_day": "",
               "dayx": 0
@@ -594,7 +594,7 @@
           "top-bar-0": {
             "type": "html",
             "settings": {
-              "html": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\">\n   <path d=\"M23.407 30.394c-2.431 0-8.341-3.109-13.303-9.783-4.641-6.242-6.898-10.751-6.898-13.785 0-2.389 1.65-3.529 2.536-4.142l0.219-0.153c0.979-0.7 2.502-0.927 3.086-0.927 1.024 0 1.455 0.599 1.716 1.121 0.222 0.442 2.061 4.39 2.247 4.881 0.286 0.755 0.192 1.855-0.692 2.488l-0.155 0.108c-0.439 0.304-1.255 0.869-1.368 1.557-0.055 0.334 0.057 0.684 0.342 1.068 1.423 1.918 5.968 7.55 6.787 8.314 0.642 0.6 1.455 0.685 2.009 0.218 0.573-0.483 0.828-0.768 0.83-0.772l0.059-0.057c0.048-0.041 0.496-0.396 1.228-0.396 0.528 0 1.065 0.182 1.596 0.541 1.378 0.931 4.487 3.011 4.487 3.011l0.050 0.038c0.398 0.341 0.973 1.323 0.302 2.601-0.695 1.327-2.85 4.066-5.079 4.066zM9.046 2.672c-0.505 0-1.746 0.213-2.466 0.728l-0.232 0.162c-0.827 0.572-2.076 1.435-2.076 3.265 0 2.797 2.188 7.098 6.687 13.149 4.914 6.609 10.532 9.353 12.447 9.353 1.629 0 3.497-2.276 4.135-3.494 0.392-0.748 0.071-1.17-0.040-1.284-0.36-0.241-3.164-2.117-4.453-2.988-0.351-0.238-0.688-0.358-0.999-0.358-0.283 0-0.469 0.1-0.532 0.14-0.104 0.111-0.39 0.405-0.899 0.833-0.951 0.801-2.398 0.704-3.424-0.254-0.923-0.862-5.585-6.666-6.916-8.459-0.46-0.62-0.641-1.252-0.538-1.877 0.187-1.133 1.245-1.866 1.813-2.26l0.142-0.099c0.508-0.363 0.4-1.020 0.316-1.242-0.157-0.414-1.973-4.322-2.203-4.781-0.188-0.376-0.336-0.533-0.764-0.533z\" fill=\"currentColor\"><\/path>\n<\/svg>\n<a class=\"t4s-ct\" href=\"https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\"> (21) 98959-0075<\/a> \n<svg class=\"ml__15\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink \">\n   <path d=\"M28.244 7.47h-25.572v17.060h26.656v-17.060h-1.084zM27.177 8.536l-10.298 10.298c-0.47 0.47-1.289 0.47-1.759 0l-10.3-10.298h22.356zM3.738 8.961l6.923 6.922-6.923 6.923v-13.846zM4.589 23.464l6.827-6.826 2.951 2.95c0.436 0.436 1.016 0.677 1.633 0.677s1.197-0.241 1.633-0.677l2.951-2.951 6.826 6.826h-22.822zM28.262 22.807l-6.923-6.924 6.923-6.924v13.848z\" fill=\"currentColor\"><\/path>\n<\/svg> \n<a class=\"t4s-ct\" href=\"mailto:contato@atitudeversatil.com.br\">contato@atitudeversatil.com.br<\/a>",
+              "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n   <path d=\"M23.407 30.394c-2.431 0-8.341-3.109-13.303-9.783-4.641-6.242-6.898-10.751-6.898-13.785 0-2.389 1.65-3.529 2.536-4.142l0.219-0.153c0.979-0.7 2.502-0.927 3.086-0.927 1.024 0 1.455 0.599 1.716 1.121 0.222 0.442 2.061 4.39 2.247 4.881 0.286 0.755 0.192 1.855-0.692 2.488l-0.155 0.108c-0.439 0.304-1.255 0.869-1.368 1.557-0.055 0.334 0.057 0.684 0.342 1.068 1.423 1.918 5.968 7.55 6.787 8.314 0.642 0.6 1.455 0.685 2.009 0.218 0.573-0.483 0.828-0.768 0.83-0.772l0.059-0.057c0.048-0.041 0.496-0.396 1.228-0.396 0.528 0 1.065 0.182 1.596 0.541 1.378 0.931 4.487 3.011 4.487 3.011l0.050 0.038c0.398 0.341 0.973 1.323 0.302 2.601-0.695 1.327-2.85 4.066-5.079 4.066zM9.046 2.672c-0.505 0-1.746 0.213-2.466 0.728l-0.232 0.162c-0.827 0.572-2.076 1.435-2.076 3.265 0 2.797 2.188 7.098 6.687 13.149 4.914 6.609 10.532 9.353 12.447 9.353 1.629 0 3.497-2.276 4.135-3.494 0.392-0.748 0.071-1.17-0.040-1.284-0.36-0.241-3.164-2.117-4.453-2.988-0.351-0.238-0.688-0.358-0.999-0.358-0.283 0-0.469 0.1-0.532 0.14-0.104 0.111-0.39 0.405-0.899 0.833-0.951 0.801-2.398 0.704-3.424-0.254-0.923-0.862-5.585-6.666-6.916-8.459-0.46-0.62-0.641-1.252-0.538-1.877 0.187-1.133 1.245-1.866 1.813-2.26l0.142-0.099c0.508-0.363 0.4-1.020 0.316-1.242-0.157-0.414-1.973-4.322-2.203-4.781-0.188-0.376-0.336-0.533-0.764-0.533z\" fill=\"currentColor\"></path>\n</svg>\n<a class=\"t4s-ct\" href=\"https://api.whatsapp.com/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\" target=\"_blank\"> (21) 98959-0075</a> \n<svg class=\"ml__15\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewbox=\"0 0 32 32\" xmlns:xlink=\"http://www.w3.org/1999/xlink \">\n   <path d=\"M28.244 7.47h-25.572v17.060h26.656v-17.060h-1.084zM27.177 8.536l-10.298 10.298c-0.47 0.47-1.289 0.47-1.759 0l-10.3-10.298h22.356zM3.738 8.961l6.923 6.922-6.923 6.923v-13.846zM4.589 23.464l6.827-6.826 2.951 2.95c0.436 0.436 1.016 0.677 1.633 0.677s1.197-0.241 1.633-0.677l2.951-2.951 6.826 6.826h-22.822zM28.262 22.807l-6.923-6.924 6.923-6.924v13.848z\" fill=\"currentColor\"></path>\n</svg> \n<a class=\"t4s-ct\" href=\"mailto:contato@atitudeversatil.com.br\">contato@atitudeversatil.com.br</a>",
               "hide": true,
               "text_align": "start",
               "col": "4"
@@ -603,7 +603,7 @@
           "top-bar-1": {
             "type": "text",
             "settings": {
-              "text": "<p>Ganhe<strong> 5% <\/strong>de Desconto no<strong> Pix <\/strong>;;;<strong> Frete Grátis <\/strong>para todo o Brasil<\/p>",
+              "text": "<p>Ganhe<strong> 5% </strong>de Desconto no<strong> Pix </strong>;;;<strong> Frete Grátis </strong>para todo o Brasil</p>",
               "countdown": "",
               "txt_day": "",
               "dayx": 0,
@@ -664,7 +664,7 @@
             "type": "drop",
             "settings": {
               "title": "Panela Elétrica",
-              "url": "shopify:\/\/collections\/frontpage",
+              "url": "shopify://collections/frontpage",
               "open_link": "_self",
               "menu": "coisas-de-casas",
               "icon": "",
@@ -681,9 +681,9 @@
             "type": "drop",
             "settings": {
               "title": "Liquidificadores",
-              "url": "shopify:\/\/collections\/decoracao",
+              "url": "shopify://collections/decoracao",
               "open_link": "_self",
-              "menu": "decoracao-moderna",
+              "menu": "eletrodomesticos",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -698,7 +698,7 @@
             "type": "drop",
             "settings": {
               "title": "Mata Mosquito Eletrico",
-              "url": "shopify:\/\/blogs\/novidades",
+              "url": "shopify://blogs/novidades",
               "open_link": "_self",
               "menu": "dicas-para-casa",
               "icon": "",
@@ -732,7 +732,7 @@
             "type": "base",
             "settings": {
               "title": "contato",
-              "url": "shopify:\/\/pages\/contact",
+              "url": "shopify://pages/contact",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -745,7 +745,7 @@
             "type": "base",
             "settings": {
               "title": "Rastreio",
-              "url": "shopify:\/\/pages\/rastreio",
+              "url": "shopify://pages/rastreio",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -1300,7 +1300,7 @@
             "disabled": true,
             "settings": {
               "tt_hd": "BLOG LAYOUT",
-              "url": "https:\/\/demo-kalles-4-1.myshopify.com\/blogs\/fashion?preview_theme_id=",
+              "url": "https://demo-kalles-4-1.myshopify.com/blogs/fashion?preview_theme_id=",
               "open_link": "_self",
               "menu": "",
               "col": "4"
@@ -1391,7 +1391,7 @@
             "type": "help",
             "settings": {
               "title": "Precisa de Ajuda?",
-              "text": "<a href='https:\/\/api.whatsapp.com\/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\"' target=\"_blank\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z\"><\/path><\/svg> (21) 98959-0075<\/a>\n<br>\n<a href=\"mailto:contato@atitudeversatil.com.br\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 3 8 L 3 26 L 29 26 L 29 8 Z M 7.3125 10 L 24.6875 10 L 16 15.78125 Z M 5 10.875 L 15.4375 17.84375 L 16 18.1875 L 16.5625 17.84375 L 27 10.875 L 27 24 L 5 24 Z\"><\/path><\/svg>\ncontato@atitudeversatil.com.br<\/a>"
+              "text": "<a href='https://api.whatsapp.com/send?phone=5521989590075&amp;text=Ol%C3%A1%20tudo%20bom!%20Sou%20Let%C3%ADcia,%20qual%20seria%20sua%20d%C3%BAvida?\"' target=\"_blank\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 8.65625 3 C 8.132813 3 7.617188 3.1875 7.1875 3.53125 L 7.125 3.5625 L 7.09375 3.59375 L 3.96875 6.8125 L 4 6.84375 C 3.035156 7.734375 2.738281 9.066406 3.15625 10.21875 C 3.160156 10.226563 3.152344 10.242188 3.15625 10.25 C 4.003906 12.675781 6.171875 17.359375 10.40625 21.59375 C 14.65625 25.84375 19.402344 27.925781 21.75 28.84375 L 21.78125 28.84375 C 22.996094 29.25 24.3125 28.960938 25.25 28.15625 L 28.40625 25 C 29.234375 24.171875 29.234375 22.734375 28.40625 21.90625 L 24.34375 17.84375 L 24.3125 17.78125 C 23.484375 16.953125 22.015625 16.953125 21.1875 17.78125 L 19.1875 19.78125 C 18.464844 19.433594 16.742188 18.542969 15.09375 16.96875 C 13.457031 15.40625 12.621094 13.609375 12.3125 12.90625 L 14.3125 10.90625 C 15.152344 10.066406 15.167969 8.667969 14.28125 7.84375 L 14.3125 7.8125 L 14.21875 7.71875 L 10.21875 3.59375 L 10.1875 3.5625 L 10.125 3.53125 C 9.695313 3.1875 9.179688 3 8.65625 3 Z M 8.65625 5 C 8.730469 5 8.804688 5.035156 8.875 5.09375 L 12.875 9.1875 L 12.96875 9.28125 C 12.960938 9.273438 13.027344 9.378906 12.90625 9.5 L 10.40625 12 L 9.9375 12.4375 L 10.15625 13.0625 C 10.15625 13.0625 11.304688 16.136719 13.71875 18.4375 L 13.9375 18.625 C 16.261719 20.746094 19 21.90625 19 21.90625 L 19.625 22.1875 L 22.59375 19.21875 C 22.765625 19.046875 22.734375 19.046875 22.90625 19.21875 L 27 23.3125 C 27.171875 23.484375 27.171875 23.421875 27 23.59375 L 23.9375 26.65625 C 23.476563 27.050781 22.988281 27.132813 22.40625 26.9375 C 20.140625 26.046875 15.738281 24.113281 11.8125 20.1875 C 7.855469 16.230469 5.789063 11.742188 5.03125 9.5625 C 4.878906 9.15625 4.988281 8.554688 5.34375 8.25 L 5.40625 8.1875 L 8.4375 5.09375 C 8.507813 5.035156 8.582031 5 8.65625 5 Z\"></path></svg> (21) 98959-0075</a>\n<br>\n<a href=\"mailto:contato@atitudeversatil.com.br\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 32 32\" fill=\"currentColor\"><path d=\"M 3 8 L 3 26 L 29 26 L 29 8 Z M 7.3125 10 L 24.6875 10 L 16 15.78125 Z M 5 10.875 L 15.4375 17.84375 L 16 18.1875 L 16.5625 17.84375 L 27 10.875 L 27 24 L 5 24 Z\"></path></svg>\ncontato@atitudeversatil.com.br</a>"
             }
           },
           "menu_BUUBHQ": {
@@ -1438,7 +1438,7 @@
             "settings": {
               "cat": "",
               "title": "RASTREIO",
-              "url": "shopify:\/\/pages\/rastrear-pedido",
+              "url": "shopify://pages/rastrear-pedido",
               "lb": "Tempo Real",
               "lb_cl": "#0a775a",
               "icons_op": "2",
@@ -1513,8 +1513,8 @@
             "settings": {
               "cat": "",
               "title": "Panela Multifuncional",
-              "url": "shopify:\/\/collections\/decoracao",
-              "menu": "decoracao-moderna",
+              "url": "shopify://collections/decoracao",
+              "menu": "eletrodomesticos",
               "lb": "",
               "lb_cl": "#e91e63",
               "icons_op": "2",
@@ -1736,7 +1736,7 @@
             "type": "img",
             "disabled": true,
             "settings": {
-              "mess": "<p class=\"text-garantia\" style=\"padding: 10px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-check-circle\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z\"><\/path>\n                                        <path fill-rule=\"evenodd\" d=\"M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z\"><\/path>\n                                    <\/svg>\n                                    30 Dias de Garantia\n                                <\/p>\n<p style=\"padding: 3px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\" class=\"text-troca\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-bootstrap-reboot\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 0 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8zm5.48-.079V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6zm0 3.75V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141z\"><\/path>\n                                    <\/svg>\n                                    7 dias para trocas e devoluções\n                                <\/p>",
+              "mess": "<p class=\"text-garantia\" style=\"padding: 10px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-check-circle\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z\"></path>\n                                        <path fill-rule=\"evenodd\" d=\"M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z\"></path>\n                                    </svg>\n                                    30 Dias de Garantia\n                                </p>\n<p style=\"padding: 3px 0px 0px 14px; margin: 0px; text-align: left !important; color: rgb(28, 28, 28) !important; font-size: 14px !important;\" class=\"text-troca\">\n                                    <svg width=\"1em\" height=\"1em\" viewbox=\"0 0 16 16\" class=\"bi bi-bootstrap-reboot\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n                                        <path fill-rule=\"evenodd\" d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 0 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8zm5.48-.079V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6zm0 3.75V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141z\"></path>\n                                    </svg>\n                                    7 dias para trocas e devoluções\n                                </p>",
               "size": 17,
               "source": "1",
               "al": "start",
@@ -2020,7 +2020,7 @@
             "type": "base",
             "settings": {
               "title": "base",
-              "url": "\/",
+              "url": "/",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -2068,7 +2068,7 @@
           "bg_hc": "#000000",
           "cl_hc": "#ffffff",
           "source": "2",
-          "txt": "<p>Welcome to our store!<\/p>",
+          "txt": "<p>Welcome to our store!</p>",
           "h_navmb": 62,
           "sticky_header": true,
           "scroll_header": true,
@@ -2225,7 +2225,7 @@
           "clnavtr_hover": "#ffffff",
           "clseatr": "#56cfe1",
           "source": "2",
-          "txt": "<p>Welcome to our store!<\/p>"
+          "txt": "<p>Welcome to our store!</p>"
         }
       },
       "header-categories-menu": {
@@ -2273,7 +2273,7 @@
             "type": "base",
             "settings": {
               "title": "base",
-              "url": "\/",
+              "url": "/",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -2338,7 +2338,7 @@
           "fw_nav": 400,
           "ls_nav": 0,
           "txt_cat": "SHOP BY CATEGORY",
-          "text": "<i class=\"las la-phone fs__14\"><\/i> +01 23456789 <i class=\"las la-envelope fs__14 ml__15\"><\/i> <a class=\"cg\" href=\"mailto:kalles@domain.com\">kalles@domain.com<\/a>",
+          "text": "<i class=\"las la-phone fs__14\"></i> +01 23456789 <i class=\"las la-envelope fs__14 ml__15\"></i> <a class=\"cg\" href=\"mailto:kalles@domain.com\">kalles@domain.com</a>",
           "shop_cat": true
         }
       },
@@ -2385,7 +2385,7 @@
             "type": "lv0_base",
             "settings": {
               "title": "base",
-              "url": "\/",
+              "url": "/",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -2451,7 +2451,7 @@
             "type": "base",
             "settings": {
               "title": "base",
-              "url": "\/",
+              "url": "/",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -2500,7 +2500,7 @@
           "clnavtr": "#ffffff",
           "clnavtr_hover": "#ffffff",
           "source": "2",
-          "txt": "<p>Welcome to our store!<\/p>",
+          "txt": "<p>Welcome to our store!</p>",
           "fm_nav": "1",
           "fs_nav": 14,
           "fw_nav": 400,
@@ -2513,13 +2513,13 @@
     ],
     "blocks": {
       "14327677521557774844": {
-        "type": "shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
+        "type": "shopify://apps/simprosys-google-shopping-feed/blocks/core_settings_block/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
         "disabled": false,
         "settings": {
         }
       },
       "pagefly-page-builder": {
-        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
         "settings": {
         }
